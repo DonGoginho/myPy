@@ -1,0 +1,476 @@
+,Id,POITypeId,POIName_de,address_city,address_kantoncode,address_zip,address_countrycode,address_street,address_gemeindeid,geopoint,poityp_de
+17829,003BE_00325052,003BE,"Briefeinwurf Zürich, BE Bushaltestelle Glaubtenstrasse",Zürich,ZH,8046,CH,Wehntalerstrasse 374,261,"47.41407433,8.52014398",Briefeinwurf
+18493,003BE_00324763,003BE,"Briefeinwurf Zürich, Bleicherweg",Zürich,ZH,8002,CH,Bleicherweg 19,261,"47.36781255,8.53569237",Briefeinwurf
+18494,003BE_00324764,003BE,"Briefeinwurf Zürich, Badenerstrasse",Zürich,ZH,8048,CH,Badenerstrasse 651A,261,"47.38706693,8.48910131",Briefeinwurf
+18656,003BE_00329115,003BE,"Briefeinwurf Zürich, Brunngasse",Zürich,ZH,8001,CH,Brunngasse 14,261,"47.37333376,8.54484591",Briefeinwurf
+18657,003BE_00329121,003BE,"Briefeinwurf Zürich, Bushaltestelle Brunau / Mutschellenstrasse",Zürich,ZH,8002,CH,Waffenplatzstrasse 88,261,"47.35507461,8.52692701",Briefeinwurf
+18660,003BE_00329129,003BE,"Briefeinwurf Zürich, Bellariastrasse",Zürich,ZH,8038,CH,Bellariastrasse 85,261,"47.3466443,8.52902349",Briefeinwurf
+18662,003BE_00329136,003BE,"Briefeinwurf Zürich, Tramhaltestelle Bahnhof Wollishofen",Zürich,ZH,8038,CH,Seestrasse 336,261,"47.34690362,8.53280073",Briefeinwurf
+18664,003BE_00329141,003BE,"Briefeinwurf Zürich, Leimbachstrasse",Zürich,ZH,8041,CH,Leimbachstrasse 200,261,"47.32605409,8.51436107",Briefeinwurf
+18690,003BE_00329146,003BE,"Briefeinwurf Zürich, Morgentalstrasse",Zürich,ZH,8038,CH,Morgentalstrasse 41,261,"47.34436018,8.52656818",Briefeinwurf
+18691,003BE_00329147,003BE,"Briefeinwurf Zürich, Besenrainstrasse",Zürich,ZH,8038,CH,Besenrainstrasse 23,261,"47.34574469,8.52779414",Briefeinwurf
+18692,003BE_00329154,003BE,"Briefeinwurf Zürich, Nidelbadstrasse",Zürich,ZH,8038,CH,Nidelbadstrasse 79,261,"47.33305557,8.53505988",Briefeinwurf
+18693,003BE_00329160,003BE,"Briefeinwurf Zürich, Seestrasse",Zürich,ZH,8038,CH,Seestrasse 241,261,"47.35210667,8.53211328",Briefeinwurf
+18694,003BE_00329162,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Bahnhof Enge",Zürich,ZH,8002,CH,Seestrasse 25,261,"47.36377104,8.53160839",Briefeinwurf
+18695,003BE_00329163,003BE,"Briefeinwurf Zürich, Enge Hafen, Schiffstation",Zürich,ZH,8002,CH,Mythenquai 21,261,"47.36118647,8.53562095",Briefeinwurf
+18812,003BE_00328787,003BE,"Briefeinwurf Zürich, BE Treffpunkt Haupthalle Hauptbahnhof 3",Zürich,ZH,8001,CH,Bahnhofhalle,261,"47.37798082,8.53993396",Briefeinwurf
+18837,003BE_00328819,003BE,"Briefeinwurf Zürich, Tödistrasse",Zürich,ZH,8002,CH,Tödistrasse 42,261,"47.367106,8.53393679",Briefeinwurf
+18838,003BE_00328821,003BE,"Briefeinwurf Zürich, Brandschenkestrasse",Zürich,ZH,8001,CH,Brandschenkestrasse 24,261,"47.36925631,8.53236827",Briefeinwurf
+19533,003BE_00332500,003BE,"Briefeinwurf Zürich, Langensteinenstrasse",Zürich,ZH,8057,CH,Langensteinenstrasse 40,261,"47.39377865,8.54721479",Briefeinwurf
+19561,003BE_00332534,003BE,"Briefeinwurf Zürich, Gemeindestrasse",Zürich,ZH,8032,CH,Gemeindestrasse 48,261,"47.36933229,8.55582535",Briefeinwurf
+19607,003BE_00333106,003BE,"Briefeinwurf Zürich, Bushaltestelle Untermoosstrasse",Zürich,ZH,8047,CH,Altstetterstrasse 263,261,"47.3801716,8.48351331",Briefeinwurf
+19724,003BE_00332106,003BE,"Briefeinwurf Zürich, Alterszentrum Hottingen",Zürich,ZH,8032,CH,Freiestrasse 71,261,"47.36804975,8.55747998",Briefeinwurf
+19725,003BE_00332110,003BE,"Briefeinwurf Zürich, Max-Högger-Strasse",Zürich,ZH,8048,CH,Max-Högger-Strasse 2,261,"47.39353458,8.48947382",Briefeinwurf
+19726,003BE_00332112,003BE,"Briefeinwurf Zürich, Tramhaltestelle Tüffenwies",Zürich,ZH,8064,CH,Hardhof 2,261,"47.39732248,8.49489246",Briefeinwurf
+19744,003BE_00332116,003BE,"Briefeinwurf Zürich, Dachslernstrasse",Zürich,ZH,8048,CH,Dachslernstrasse 88,261,"47.39157484,8.47309113",Briefeinwurf
+19745,003BE_00332118,003BE,"Briefeinwurf Zürich, Bushaltestelle Dunkelhölzli",Zürich,ZH,8048,CH,Rautistrasse 385,261,"47.38875186,8.47000984",Briefeinwurf
+19746,003BE_00332119,003BE,"Briefeinwurf Zürich, Eugen-Huber-Strasse",Zürich,ZH,8048,CH,Eugen-Huber-Strasse 97,261,"47.3874324,8.47622659",Briefeinwurf
+19747,003BE_00332123,003BE,"Briefeinwurf Zürich, Bushaltestelle Kappeli",Zürich,ZH,8048,CH,Buckhauserstrasse 41,261,"47.38412413,8.49438862",Briefeinwurf
+19748,003BE_00332126,003BE,"Briefeinwurf Zürich, Ecke Baslerstrasse",Zürich,ZH,8048,CH,Mürtschenstrasse 39,261,"47.38713013,8.49440576",Briefeinwurf
+19749,003BE_00332127,003BE,"Briefeinwurf Zürich, Bahnhof Altstetten",Zürich,ZH,8048,CH,Altstetterplatz 12,261,"47.39129511,8.48914489",Briefeinwurf
+19750,003BE_00332129,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Farbhof",Zürich,ZH,8048,CH,Badenerstrasse 751,261,"47.39093204,8.47896503",Briefeinwurf
+19751,003BE_00332133,003BE,"Briefeinwurf Zürich, Tramhaltestelle Luegisland",Zürich,ZH,8051,CH,Winterthurerstrasse 659,261,"47.40604694,8.58122879",Briefeinwurf
+19752,003BE_00332134,003BE,"Briefeinwurf Zürich, Ueberlandstrasse",Zürich,ZH,8051,CH,Ueberlandstrasse 483,261,"47.40553339,8.59398244",Briefeinwurf
+19772,003BE_00332142,003BE,"Briefeinwurf Zürich, Bushaltestelle Frohburg",Zürich,ZH,8051,CH,Winterthurerstrasse 390,261,"47.40427135,8.56241126",Briefeinwurf
+19773,003BE_00332146,003BE,"Briefeinwurf Zürich, Ecke Neuenbrunnenstrasse",Zürich,ZH,8046,CH,Hürststrasse 61,261,"47.41505993,8.52764727",Briefeinwurf
+19774,003BE_00332155,003BE,"Briefeinwurf Zürich, Gorwiden",Zürich,ZH,8057,CH,Gorwiden 2,261,"47.40408287,8.55092822",Briefeinwurf
+19797,003BE_00332159,003BE,"Briefeinwurf Zürich, Bushaltestelle Hertensteinstrasse",Zürich,ZH,8052,CH,Seebacherstrasse 55,261,"47.4228604,8.54339182",Briefeinwurf
+19798,003BE_00332160,003BE,"Briefeinwurf Zürich, Bushaltestelle Himmeri",Zürich,ZH,8052,CH,Birchstrasse 255,261,"47.42003127,8.53869326",Briefeinwurf
+19799,003BE_00332161,003BE,"Briefeinwurf Zürich, Bushaltestelle Birch-/Glatttalstrasse",Zürich,ZH,8052,CH,Birchstrasse 666,261,"47.42720568,8.54614218",Briefeinwurf
+19800,003BE_00332164,003BE,"Briefeinwurf Zürich, BE Restaurant Binzgarten",Zürich,ZH,8050,CH,Affolternstrasse 10,261,"47.41246922,8.54452934",Briefeinwurf
+19803,003BE_00332173,003BE,"Briefeinwurf Zürich, Bushaltestelle Hungerbergstrasse",Zürich,ZH,8046,CH,Wehntalerstrasse 597,261,"47.42104762,8.5016753",Briefeinwurf
+19804,003BE_00332175,003BE,"Briefeinwurf Zürich, Neumarkt",Zürich,ZH,8050,CH,Hofwiesenstrasse 354,261,"47.41062986,8.54338606",Briefeinwurf
+19805,003BE_00332177,003BE,"Briefeinwurf Zürich, Kirchenackerweg",Zürich,ZH,8050,CH,Kirchenackerweg 30,261,"47.40904141,8.55368444",Briefeinwurf
+19806,003BE_00332180,003BE,"Briefeinwurf Zürich, Max-Bill-Platz",Zürich,ZH,8050,CH,Max-Bill-Platz 19,261,"47.41409129,8.54092279",Briefeinwurf
+19832,003BE_00332181,003BE,"Briefeinwurf Zürich, Bushaltestelle Stierenried",Zürich,ZH,8050,CH,Neunbrunnenstrasse 104,261,"47.41664781,8.53523348",Briefeinwurf
+19833,003BE_00332182,003BE,"Briefeinwurf Zürich, Neunbrunnenstrasse",Zürich,ZH,8050,CH,Neunbrunnenstrasse 16,261,"47.41773064,8.54366183",Briefeinwurf
+19834,003BE_00332184,003BE,"Briefeinwurf Zürich, Regensbergstrasse",Zürich,ZH,8050,CH,Regensbergstrasse 185,261,"47.40951335,8.5373684",Briefeinwurf
+19835,003BE_00332190,003BE,"Briefeinwurf Zürich, Dreispitz",Zürich,ZH,8050,CH,Dreispitz 188,261,"47.40989374,8.56744447",Briefeinwurf
+19836,003BE_00332193,003BE,"Briefeinwurf Zürich, Hofwiesenstrasse",Zürich,ZH,8050,CH,Hofwiesenstrasse 379,261,"47.41171303,8.54534449",Briefeinwurf
+19837,003BE_00332199,003BE,"Briefeinwurf Zürich, Bushaltestelle Aubrücke",Zürich,ZH,8051,CH,Herzogenmühlestrasse 166,261,"47.41020203,8.57215898",Briefeinwurf
+19838,003BE_00332204,003BE,"Briefeinwurf Zürich, Kolbenacker",Zürich,ZH,8052,CH,Kolbenacker 30,261,"47.42672459,8.54912908",Briefeinwurf
+19860,003BE_00332207,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Seebach",Zürich,ZH,8052,CH,Schaffhauserstrasse 499,261,"47.42164921,8.54991658",Briefeinwurf
+19861,003BE_00332209,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Radiostudio",Zürich,ZH,8057,CH,Hofwiesenstrasse 190,261,"47.40218228,8.5354817",Briefeinwurf
+19862,003BE_00332211,003BE,"Briefeinwurf Zürich, Oerlikonerstrasse",Zürich,ZH,8057,CH,Oerlikonerstrasse 91,261,"47.40527671,8.54650662",Briefeinwurf
+19865,003BE_00332228,003BE,"Briefeinwurf Zürich, Köschenrütistrasse",Zürich,ZH,8052,CH,Köschenrütistrasse 140,261,"47.42819993,8.53696115",Briefeinwurf
+19866,003BE_00332229,003BE,"Briefeinwurf Zürich, Bahnhof Stettbach",Zürich,ZH,8051,CH,Dübendorfstrasse 447,261,"47.39730476,8.59630257",Briefeinwurf
+19880,003BE_00332874,003BE,"Briefeinwurf Zürich, Sonneggstrasse",Zürich,ZH,8006,CH,Sonneggstrasse 20,261,"47.37977729,8.5467886",Briefeinwurf
+19920,003BE_00332287,003BE,"Briefeinwurf Zürich, Claridenstrasse",Zürich,ZH,8002,CH,Claridenstrasse 19,261,"47.36655875,8.53785512",Briefeinwurf
+26674,003BE_00332306,003BE,"Briefeinwurf Zürich, Rebenstrasse",Zürich,ZH,8041,CH,Rebenstrasse 54,261,"47.33445682,8.51626249",Briefeinwurf
+26724,003BE_00329530,003BE,"Briefeinwurf Zürich, Billeterstrasse",Zürich,ZH,8044,CH,Billeterstrasse 1,261,"47.37852893,8.56712346",Briefeinwurf
+26725,003BE_00329533,003BE,"Briefeinwurf Zürich, BE Tramhalt. Voltastrasse",Zürich,ZH,8044,CH,Gloriastrasse 54,261,"47.37697439,8.55445199",Briefeinwurf
+26726,003BE_00329535,003BE,"Briefeinwurf Zürich, Zürichbergstrasse",Zürich,ZH,8032,CH,Zürichbergstrasse 20,261,"47.37340549,8.55301344",Briefeinwurf
+26727,003BE_00329537,003BE,"Briefeinwurf Zürich, Hofstrasse",Zürich,ZH,8032,CH,Hofstrasse 40,261,"47.37148447,8.55865105",Briefeinwurf
+26728,003BE_00329544,003BE,"Briefeinwurf Zürich, Bushaltestelle Kapfstrasse",Zürich,ZH,8032,CH,Witikonerstrasse 80,261,"47.36103065,8.57115238",Briefeinwurf
+26729,003BE_00329558,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Neumarkt",Zürich,ZH,8001,CH,Hirschengraben 40,261,"47.37272676,8.54754912",Briefeinwurf
+26759,003BE_00329580,003BE,"Briefeinwurf Zürich, Gemeindestrasse",Zürich,ZH,8032,CH,Gemeindestrasse 4,261,"47.36844136,8.55158038",Briefeinwurf
+26760,003BE_00329583,003BE,"Briefeinwurf Zürich, Heliosstrasse",Zürich,ZH,8032,CH,Heliosstrasse 32,261,"47.36278168,8.56077319",Briefeinwurf
+26761,003BE_00329591,003BE,"Briefeinwurf Zürich, Eierbrechtstrasse",Zürich,ZH,8053,CH,Eierbrechtstrasse 39,261,"47.35844143,8.57750321",Briefeinwurf
+26781,003BE_00329595,003BE,"Briefeinwurf Zürich, Bushaltestelle Loorenstrasse",Zürich,ZH,8053,CH,Witikonerstrasse 405,261,"47.35987103,8.59396239",Briefeinwurf
+26783,003BE_00329601,003BE,"Briefeinwurf Zürich, Tramhaltestelle Burgwies",Zürich,ZH,8032,CH,Forchstrasse 261,261,"47.35827977,8.57162349",Briefeinwurf
+26784,003BE_00329602,003BE,"Briefeinwurf Zürich, Bahnhof Balgrist",Zürich,ZH,8008,CH,Forchstrasse 331,261,"47.35457142,8.57533577",Briefeinwurf
+26785,003BE_00329604,003BE,"Briefeinwurf Zürich, Im Walder",Zürich,ZH,8008,CH,Im Walder 14,261,"47.34817141,8.57413264",Briefeinwurf
+26786,003BE_00329605,003BE,"Briefeinwurf Zürich, Bushaltestelle Wonnenbergstrasse",Zürich,ZH,8008,CH,Lenggstrasse 1,261,"47.35176119,8.56681531",Briefeinwurf
+26787,003BE_00329609,003BE,"Briefeinwurf Zürich, Mühlebachstrasse",Zürich,ZH,8008,CH,Mühlebachstrasse 43,261,"47.36384834,8.55177315",Briefeinwurf
+26788,003BE_00329611,003BE,"Briefeinwurf Zürich, Mühlebachstrasse",Zürich,ZH,8008,CH,Mühlebachstrasse 174,261,"47.35638698,8.55873117",Briefeinwurf
+26789,003BE_00329612,003BE,"Briefeinwurf Zürich, Bushaltestelle Altenhofstrasse",Zürich,ZH,8008,CH,Zollikerstrasse 154,261,"47.3551199,8.5613824",Briefeinwurf
+26790,003BE_00329616,003BE,"Briefeinwurf Zürich, Seefeldstrasse",Zürich,ZH,8008,CH,Seefeldstrasse 81,261,"47.36037266,8.55241813",Briefeinwurf
+26792,003BE_00329622,003BE,"Briefeinwurf Zürich, Dufourstrasse",Zürich,ZH,8008,CH,Dufourstrasse 100,261,"47.35905083,8.5513434",Briefeinwurf
+26824,003BE_00329623,003BE,"Briefeinwurf Zürich, Dufourstrasse",Zürich,ZH,8008,CH,Dufourstrasse 157,261,"47.35518449,8.55481159",Briefeinwurf
+26825,003BE_00329624,003BE,"Briefeinwurf Zürich, Seefeldstrasse",Zürich,ZH,8008,CH,Seefeldstrasse 220,261,"47.35262356,8.55926764",Briefeinwurf
+26826,003BE_00329628,003BE,"Briefeinwurf Zürich, Bahnhof Tiefenbrunnen",Zürich,ZH,8008,CH,Bellerivestrasse 251,261,"47.35029964,8.5609805",Briefeinwurf
+26827,003BE_00329630,003BE,"Briefeinwurf Zürich, BE Tramhaltestelle Bellevue 1",Zürich,ZH,8001,CH,Bellevueplatz 1,261,"47.36701259,8.54524704",Briefeinwurf
+26828,003BE_00329636,003BE,"Briefeinwurf Zürich, Filiale Zürich 36 Wiedikon",Zürich,ZH,8003,CH,Seebahnstrasse 89,261,"47.37127029,8.52282977",Briefeinwurf
+26829,003BE_00329641,003BE,"Briefeinwurf Zürich, Filiale Zürich 48 Altstetten",Zürich,ZH,8048,CH,Altstetterstrasse 159,261,"47.38674831,8.48634808",Briefeinwurf
+26830,003BE_00329642,003BE,"Briefeinwurf Zürich, Filiale Zürich 31 Industriequartier",Zürich,ZH,8005,CH,Limmatstrasse 118,261,"47.38421821,8.53243682",Briefeinwurf
+26831,003BE_00329644,003BE,"Briefeinwurf Zürich, Filiale Zürich 42 Schaffhauserplatz",Zürich,ZH,8057,CH,Hofwiesenstrasse 3,261,"47.39205907,8.53823922",Briefeinwurf
+26832,003BE_00329647,003BE,"Briefeinwurf Zürich, Filiale Zürich 32 Neumünster",Zürich,ZH,8008,CH,Forchstrasse 8,261,"47.36418798,8.55563285",Briefeinwurf
+26833,003BE_00329648,003BE,"Briefeinwurf Zürich, Filiale Zürich 34 Riesbach",Zürich,ZH,8008,CH,Seefeldstrasse 128,261,"47.35773503,8.55411968",Briefeinwurf
+26903,003BE_00329213,003BE,"Briefeinwurf Zürich, Bühlstrasse",Zürich,ZH,8055,CH,Bühlstrasse 21,261,"47.36706455,8.51499631",Briefeinwurf
+26904,003BE_00329214,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Uetlihof",Zürich,ZH,8045,CH,Uetlibergstrasse 231,261,"47.35702811,8.51428018",Briefeinwurf
+26905,003BE_00329221,003BE,"Briefeinwurf Zürich, BE Bushaltestelle Friesenberg",Zürich,ZH,8055,CH,Gehrenholzstrasse 2,261,"47.36387935,8.5073434",Briefeinwurf
+26906,003BE_00329225,003BE,"Briefeinwurf Zürich, Tramendhaltestelle Zürich Triemli",Zürich,ZH,8055,CH,Birmensdorferstrasse 509,261,"47.36789129,8.49550249",Briefeinwurf
+26907,003BE_00329228,003BE,"Briefeinwurf Zürich, Birmensdorferstrasse",Zürich,ZH,8055,CH,Birmensdorferstrasse 320,261,"47.36986285,8.50861524",Briefeinwurf
+26908,003BE_00329229,003BE,"Briefeinwurf Zürich, Goldbrunnenplatz",Zürich,ZH,8055,CH,Goldbrunnenplatz 2,261,"47.37007638,8.51361652",Briefeinwurf
+26909,003BE_00329234,003BE,"Briefeinwurf Zürich, Steinstrasse",Zürich,ZH,8003,CH,Steinstrasse 72,261,"47.36589273,8.52132235",Briefeinwurf
+26910,003BE_00329238,003BE,"Briefeinwurf Zürich, Bahnhof Zürich Binz",Zürich,ZH,8045,CH,Uetlibergstrasse 65,261,"47.36259938,8.51875073",Briefeinwurf
+26934,003BE_00329243,003BE,"Briefeinwurf Zürich, Birmensdorferstrasse",Zürich,ZH,8004,CH,Birmensdorferstrasse 51,261,"47.3716233,8.5258506",Briefeinwurf
+26938,003BE_00329257,003BE,"Briefeinwurf Zürich, Magnusstrasse",Zürich,ZH,8004,CH,Magnusstrasse 1,261,"47.3793399,8.52425988",Briefeinwurf
+26954,003BE_00329283,003BE,"Briefeinwurf Zürich, Triemlistrasse",Zürich,ZH,8047,CH,Triemlistrasse 120,261,"47.36928613,8.49139782",Briefeinwurf
+26955,003BE_00329287,003BE,"Briefeinwurf Zürich, Espenhofweg",Zürich,ZH,8047,CH,Espenhofweg 40,261,"47.37275402,8.49796109",Briefeinwurf
+26956,003BE_00329289,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Hubertus",Zürich,ZH,8047,CH,Gutstrasse 235,261,"47.377077,8.49914476",Briefeinwurf
+26957,003BE_00329290,003BE,"Briefeinwurf Zürich, Burstwiesenstrasse",Zürich,ZH,8055,CH,Burstwiesenstrasse 20,261,"47.37042426,8.50714487",Briefeinwurf
+26958,003BE_00329294,003BE,"Briefeinwurf Zürich, Birmensdorferstrasse",Zürich,ZH,8004,CH,Birmensdorferstrasse 1,261,"47.37300587,8.52794974",Briefeinwurf
+26959,003BE_00329295,003BE,"Briefeinwurf Zürich, Hallwylplatz",Zürich,ZH,8004,CH,Hallwylstrasse 40,261,"47.37137719,8.52839049",Briefeinwurf
+26960,003BE_00329297,003BE,"Briefeinwurf Zürich, Bezirksgericht Zürich",Zürich,ZH,8004,CH,Badenerstrasse 90,261,"47.37427382,8.52569675",Briefeinwurf
+26985,003BE_00329303,003BE,"Briefeinwurf Zürich, Kanzleistrasse",Zürich,ZH,8004,CH,Kanzleistrasse 91,261,"47.37588251,8.52316985",Briefeinwurf
+26987,003BE_00329311,003BE,"Briefeinwurf Zürich, Heinrichstrasse",Zürich,ZH,8005,CH,Heinrichstrasse 235,261,"47.38843562,8.52322257",Briefeinwurf
+26988,003BE_00329320,003BE,"Briefeinwurf Zürich, Am Wasser",Zürich,ZH,8049,CH,Am Wasser 138,261,"47.39931748,8.4983433",Briefeinwurf
+26995,003BE_00329850,003BE,"Briefeinwurf Zürich, Bahnhofstrasse",Zürich,ZH,8001,CH,Bahnhofstrasse 84,261,"47.37535244,8.53917785",Briefeinwurf
+26997,003BE_00329855,003BE,"Briefeinwurf Zürich, Beatenplatz",Zürich,ZH,8001,CH,Beatenplatz 2,261,"47.3759176,8.54075473",Briefeinwurf
+27017,003BE_00329333,003BE,"Briefeinwurf Zürich, Tobeleggstrasse",Zürich,ZH,8049,CH,Tobeleggstrasse 8,261,"47.39923267,8.50189733",Briefeinwurf
+27020,003BE_00329346,003BE,"Briefeinwurf Zürich, Ecke Michelstrasse",Zürich,ZH,8049,CH,Segantinistrasse 91,261,"47.40637318,8.49539512",Briefeinwurf
+27023,003BE_00329360,003BE,"Briefeinwurf Zürich, Wieslergasse",Zürich,ZH,8049,CH,Wieslergasse 36,261,"47.40362076,8.49647068",Briefeinwurf
+27024,003BE_00329361,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Schwert",Zürich,ZH,8049,CH,Limmattalstrasse 111,261,"47.39949017,8.50509255",Briefeinwurf
+27025,003BE_00329367,003BE,"Briefeinwurf Zürich, Kürbergstrasse",Zürich,ZH,8049,CH,Kürbergstrasse 24,261,"47.39926925,8.50748864",Briefeinwurf
+27046,003BE_00329368,003BE,"Briefeinwurf Zürich, Appenzellerstrasse",Zürich,ZH,8049,CH,Appenzellerstrasse 31,261,"47.4001751,8.50865011",Briefeinwurf
+27047,003BE_00329373,003BE,"Briefeinwurf Zürich, Bäckerei",Zürich,ZH,8037,CH,Weihersteig 1,261,"47.39624542,8.52673698",Briefeinwurf
+27048,003BE_00329382,003BE,"Briefeinwurf Zürich, Unileverhaus",Zürich,ZH,8005,CH,Hardturmstrasse 101,261,"47.39218932,8.51667987",Briefeinwurf
+27049,003BE_00329391,003BE,"Briefeinwurf Zürich, Puls 5",Zürich,ZH,8005,CH,Giessereistrasse 18,261,"47.39009046,8.51748382",Briefeinwurf
+27050,003BE_00329401,003BE,"Briefeinwurf Zürich, Langmauerstrasse",Zürich,ZH,8006,CH,Langmauerstrasse 35,261,"47.38992126,8.5421688",Briefeinwurf
+27051,003BE_00329403,003BE,"Briefeinwurf Zürich, Milchbuckstrasse",Zürich,ZH,8057,CH,Milchbuckstrasse 34,261,"47.39405461,8.54159336",Briefeinwurf
+27055,003BE_00329903,003BE,"Briefeinwurf Zürich, Pelikanstrasse",Zürich,ZH,8001,CH,Pelikanstrasse 19,261,"47.37165439,8.53673403",Briefeinwurf
+27056,003BE_00329907,003BE,"Briefeinwurf Zürich, Engimattstrasse",Zürich,ZH,8002,CH,Engimattstrasse 14,261,"47.3595475,8.52486975",Briefeinwurf
+27057,003BE_00329915,003BE,"Briefeinwurf Zürich, Passage Löwenstrasse",Zürich,ZH,8001,CH,Passage Löwenstrasse,261,"47.37820861,8.54010023",Briefeinwurf
+27058,003BE_00329923,003BE,"Briefeinwurf Zürich, Stauffacherstrasse",Zürich,ZH,8004,CH,Stauffacherstrasse 147,261,"47.3773797,8.52264809",Briefeinwurf
+27059,003BE_00329928,003BE,"Briefeinwurf Zürich, Tramhaltestelle Kalkbreite",Zürich,ZH,8004,CH,Engelstrasse 1,261,"47.37460038,8.52147796",Briefeinwurf
+27074,003BE_00329421,003BE,"Briefeinwurf Zürich, Weinbergstrasse",Zürich,ZH,8006,CH,Weinbergstrasse 29,261,"47.37889505,8.54413891",Briefeinwurf
+27075,003BE_00329425,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Röslistrasse",Zürich,ZH,8006,CH,Weinbergstrasse 135,261,"47.38861632,8.54063315",Briefeinwurf
+27076,003BE_00329436,003BE,"Briefeinwurf Zürich, Nordstrasse",Zürich,ZH,8037,CH,Nordstrasse 190,261,"47.39255556,8.53112961",Briefeinwurf
+27097,003BE_00329438,003BE,"Briefeinwurf Zürich, Bushaltestelle Rotbuchstrasse",Zürich,ZH,8037,CH,Kornhausstrasse 57,261,"47.39120139,8.53611013",Briefeinwurf
+27103,003BE_00329975,003BE,"Briefeinwurf Zürich, Adolf-Lüchinger-Strasse",Zürich,ZH,8045,CH,Adolf-Lüchinger-Strasse 63,261,"47.35576995,8.50873231",Briefeinwurf
+27104,003BE_00329983,003BE,"Briefeinwurf Zürich, Technopark",Zürich,ZH,8005,CH,Technoparkstrasse 1,261,"47.38964476,8.51598866",Briefeinwurf
+27105,003BE_00329993,003BE,"Briefeinwurf Zürich, Frauenklinikstrasse",Zürich,ZH,8006,CH,Frauenklinikstrasse 10,261,"47.37849862,8.55095469",Briefeinwurf
+27106,003BE_00329998,003BE,"Briefeinwurf Zürich, Rütistrasse",Zürich,ZH,8032,CH,Rütistrasse 52,261,"47.37105177,8.56383772",Briefeinwurf
+27107,003BE_00330004,003BE,"Briefeinwurf Zürich, Streulistrasse",Zürich,ZH,8032,CH,Streulistrasse 48,261,"47.36460439,8.56287291",Briefeinwurf
+27108,003BE_00330007,003BE,"Briefeinwurf Zürich, Schulthess Klinik",Zürich,ZH,8008,CH,Lengghalde 2,261,"47.35220452,8.57316488",Briefeinwurf
+27109,003BE_00330010,003BE,"Briefeinwurf Zürich, Kieselgasse",Zürich,ZH,8008,CH,Kieselgasse 2,261,"47.35575637,8.55650732",Briefeinwurf
+27133,003BE_00329474,003BE,"Briefeinwurf Zürich, Imfeldstrasse",Zürich,ZH,8037,CH,Imfeldstrasse 17,261,"47.38847555,8.53424737",Briefeinwurf
+27134,003BE_00329475,003BE,"Briefeinwurf Zürich, Rütschistrasse",Zürich,ZH,8037,CH,Rütschistrasse 24,261,"47.39386724,8.53158568",Briefeinwurf
+27135,003BE_00329476,003BE,"Briefeinwurf Zürich, Röschibachstrasse",Zürich,ZH,8037,CH,Röschibachstrasse 81,261,"47.39351835,8.52909614",Briefeinwurf
+27136,003BE_00329482,003BE,"Briefeinwurf Zürich, Bushaltestelle Waidspital",Zürich,ZH,8037,CH,Tièchestrasse 91,261,"47.3990021,8.52169417",Briefeinwurf
+27137,003BE_00329483,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Bucheggplatz",Zürich,ZH,8057,CH,Hofwiesenstrasse 114,261,"47.39843403,8.53320413",Briefeinwurf
+27138,003BE_00329491,003BE,"Briefeinwurf Zürich, Kronenstrasse",Zürich,ZH,8006,CH,Kronenstrasse 48,261,"47.38789237,8.53920096",Briefeinwurf
+27139,003BE_00329494,003BE,"Briefeinwurf Zürich, Gloriastrasse",Zürich,ZH,8006,CH,Gloriastrasse 19,261,"47.37489029,8.55155211",Briefeinwurf
+27140,003BE_00329497,003BE,"Briefeinwurf Zürich, Universitätstrasse",Zürich,ZH,8006,CH,Universitätstrasse 40,261,"47.38050924,8.54831487",Briefeinwurf
+27163,003BE_00329498,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Seilbahn Rigiblick",Zürich,ZH,8006,CH,Universitätstrasse 120,261,"47.3857162,8.54863119",Briefeinwurf
+27164,003BE_00329499,003BE,"Briefeinwurf Zürich, Blümlisalpstrasse",Zürich,ZH,8006,CH,Blümlisalpstrasse 19,261,"47.38830779,8.54777918",Briefeinwurf
+27165,003BE_00329500,003BE,"Briefeinwurf Zürich, Frohburgstrasse",Zürich,ZH,8006,CH,Frohburgstrasse 64,261,"47.3898372,8.54953425",Briefeinwurf
+27166,003BE_00329501,003BE,"Briefeinwurf Zürich, Tramhaltestelle Langmauerstrasse",Zürich,ZH,8057,CH,Milchbuckstrasse 81,261,"47.39386798,8.54512104",Briefeinwurf
+27167,003BE_00329503,003BE,"Briefeinwurf Zürich, Letzistrasse",Zürich,ZH,8006,CH,Letzistrasse 50,261,"47.39242896,8.55025587",Briefeinwurf
+27168,003BE_00329504,003BE,"Briefeinwurf Zürich, In der Hub",Zürich,ZH,8057,CH,In der Hub 1,261,"47.39652087,8.55258927",Briefeinwurf
+27169,003BE_00329507,003BE,"Briefeinwurf Zürich, Germaniastrasse",Zürich,ZH,8006,CH,Germaniastrasse 62,261,"47.38721991,8.55249294",Briefeinwurf
+27170,003BE_00329508,003BE,"Briefeinwurf Zürich, BE Bushalt. Rigiblick",Zürich,ZH,8044,CH,Freudenbergstrasse 146,261,"47.3872069,8.55393504",Briefeinwurf
+27171,003BE_00329512,003BE,"Briefeinwurf Zürich, Bushaltestelle Spyriplatz",Zürich,ZH,8044,CH,Gladbachstrasse 41,261,"47.3821507,8.55207183",Briefeinwurf
+27172,003BE_00329519,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Kirche Fluntern",Zürich,ZH,8044,CH,Zürichbergstrasse 75,261,"47.37650981,8.55970079",Briefeinwurf
+27559,003BE_00335998,003BE,"Briefeinwurf Zürich, Filiale Zürich 52 Seebach",Zürich,ZH,8052,CH,Bahnhaldenstrasse 5,261,"47.41907104,8.54684248",Briefeinwurf
+27560,003BE_00335999,003BE,"Briefeinwurf Zürich, Filiale Zürich 1 Sihlpost",Zürich,ZH,8004,CH,Kasernenstrasse 97,261,"47.37749425,8.53567175",Briefeinwurf
+28211,003BE_00340528,003BE,"Briefeinwurf Zürich, Bushaltestelle Aspholz",Zürich,ZH,8046,CH,Mühlackerstrasse 102,261,"47.42522214,8.49991758",Briefeinwurf
+29117,003BE_00343073,003BE,"Briefeinwurf Zürich, Filiale Zürich West",Zürich,ZH,8005,CH,Hardturmstrasse 126,261,"47.39350363,8.51309283",Briefeinwurf
+29229,003BE_00343545,003BE,"Briefeinwurf Zürich, Weite Gasse",Zürich,ZH,8001,CH,Weite Gasse 10,261,"47.36863842,8.54558133",Briefeinwurf
+29262,003BE_00343710,003BE,"Briefeinwurf Zürich, Filiale Zürich 50 Oerlikon",Zürich,ZH,8050,CH,Baumackerstrasse 42,261,"47.40945415,8.543204",Briefeinwurf
+29277,003BE_00343717,003BE,"Briefeinwurf Zürich, Bahnhof Altstetten Unterführung 2",Zürich,ZH,8048,CH,Vulkanplatz 31,261,"47.39212165,8.48925522",Briefeinwurf
+29403,003BE_00342951,003BE,"Briefeinwurf Zürich, Filiale Zürich 51 Schwamendingen",Zürich,ZH,8051,CH,Winterthurerstrasse 525,261,"47.40438915,8.57190551",Briefeinwurf
+29419,003BE_00342721,003BE,"Briefeinwurf Zürich, Filiale Zürich 41 Leimbach",Zürich,ZH,8041,CH,Leimbachstrasse 23,261,"47.33605976,8.51886323",Briefeinwurf
+29470,003BE_00343020,003BE,"Briefeinwurf Zürich, Filiale Zürich 25 Urania",Zürich,ZH,8001,CH,Uraniastrasse 7,261,"47.37435188,8.54015298",Briefeinwurf
+29592,003BE_00342067,003BE,"Briefeinwurf Zürich, BE Tramhaltestelle Stauffacher",Zürich,ZH,8004,CH,Badenerstrasse 21,261,"47.37365685,8.5296937",Briefeinwurf
+29751,003BE_00342239,003BE,"Briefeinwurf Zürich, Haltestelle Hardbrücke 2",Zürich,ZH,8005,CH,Hardstrasse 201,261,"47.38620754,8.51745557",Briefeinwurf
+29814,003BE_00342294,003BE,"Briefeinwurf Zürich, Tramhaltestelle Toni-Areal",Zürich,ZH,8005,CH,Pfingstweidstrasse 101,261,"47.3902512,8.50900061",Briefeinwurf
+29910,003BE_00340916,003BE,"Briefeinwurf Zürich, Frauenklinik Maternité",Zürich,ZH,8055,CH,Birmensdorferstrasse 501,261,"47.36597292,8.49546977",Briefeinwurf
+29971,003BE_00341412,003BE,"Briefeinwurf Zürich, Bleicherweg",Zürich,ZH,8002,CH,Bleicherweg 19,261,"47.36780538,8.53568958",Briefeinwurf
+41958,003BE_00324760,003BE,"Briefeinwurf Zürich, Falkenstrasse",Zürich,ZH,8008,CH,Falkenstrasse 11,261,"47.36515248,8.54776895",Briefeinwurf
+42134,003BE_00329116,003BE,"Briefeinwurf Zürich, Central",Zürich,ZH,8001,CH,Central 1,261,"47.37667498,8.54348771",Briefeinwurf
+42135,003BE_00329117,003BE,"Briefeinwurf Zürich, Walchetor",Zürich,ZH,8001,CH,Stampfenbachstrasse 19,261,"47.37860058,8.54342167",Briefeinwurf
+42136,003BE_00329118,003BE,"Briefeinwurf Zürich, Bahnhofquai",Zürich,ZH,8001,CH,Bahnhofquai 20,261,"47.37735965,8.54158968",Briefeinwurf
+42137,003BE_00329135,003BE,"Briefeinwurf Zürich, Brunaustrasse",Zürich,ZH,8002,CH,Brunaustrasse 6,261,"47.35637385,8.53203529",Briefeinwurf
+42138,003BE_00329137,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Morgental",Zürich,ZH,8038,CH,Albisstrasse 46,261,"47.3436926,8.52991867",Briefeinwurf
+42139,003BE_00329139,003BE,"Briefeinwurf Zürich, Bushaltestelle Verenastrasse",Zürich,ZH,8038,CH,Butzenstrasse 42,261,"47.34099965,8.52531659",Briefeinwurf
+42164,003BE_00329150,003BE,"Briefeinwurf Zürich, Entlisbergstrasse",Zürich,ZH,8038,CH,Entlisbergstrasse 26,261,"47.33762292,8.5247344",Briefeinwurf
+42165,003BE_00329151,003BE,"Briefeinwurf Zürich, Paradiesstrasse",Zürich,ZH,8038,CH,Paradiesstrasse 3,261,"47.33483013,8.52938413",Briefeinwurf
+42166,003BE_00329158,003BE,"Briefeinwurf Zürich, Bushaltestelle Stadtgrenze",Zürich,ZH,8038,CH,Seestrasse 561,261,"47.33526665,8.54128863",Briefeinwurf
+42192,003BE_00329182,003BE,"Briefeinwurf Zürich, Müllerstrasse",Zürich,ZH,8004,CH,Müllerstrasse 16,261,"47.37418782,8.53128562",Briefeinwurf
+42311,003BE_00328815,003BE,"Briefeinwurf Zürich, Rennweg",Zürich,ZH,8001,CH,Rennweg 57,261,"47.37384014,8.53882222",Briefeinwurf
+42312,003BE_00328820,003BE,"Briefeinwurf Zürich, Brandschenkestrasse",Zürich,ZH,8002,CH,Brandschenkestrasse 158,261,"47.36430573,8.52623232",Briefeinwurf
+42336,003BE_00328822,003BE,"Briefeinwurf Zürich, Löwenstrasse",Zürich,ZH,8001,CH,Löwenstrasse 7,261,"47.37334992,8.5345616",Briefeinwurf
+42337,003BE_00328826,003BE,"Briefeinwurf Zürich, Schiffstation",Zürich,ZH,8001,CH,Bürkliplatz 10,261,"47.36613159,8.54076963",Briefeinwurf
+42338,003BE_00328828,003BE,"Briefeinwurf Zürich, BE Tramhaltestelle Löwenplatz",Zürich,ZH,8001,CH,Löwenstrasse 49,261,"47.37618765,8.5371452",Briefeinwurf
+42339,003BE_00328829,003BE,"Briefeinwurf Zürich, Tramhaltestelle Tunnelstrasse",Zürich,ZH,8002,CH,Bleicherweg 47,261,"47.36584092,8.53245446",Briefeinwurf
+42975,003BE_00332503,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Leutschenbach",Zürich,ZH,8050,CH,Thurgauerstrasse 40,261,"47.41481682,8.55175921",Briefeinwurf
+43010,003BE_00332529,003BE,"Briefeinwurf Zürich, Bushaltestelle Neuaffoltern",Zürich,ZH,8046,CH,Wehntalerstrasse 296,261,"47.41223267,8.52459872",Briefeinwurf
+43013,003BE_00332533,003BE,"Briefeinwurf Zürich, Bahnhof Stadelhofen",Zürich,ZH,8001,CH,Stadelhoferstrasse 8,261,"47.36635462,8.54885314",Briefeinwurf
+43014,003BE_00332540,003BE,"Briefeinwurf Zürich, Carl-Spitteler-Strasse",Zürich,ZH,8053,CH,Carl-Spitteler-Strasse 70,261,"47.35574729,8.59444095",Briefeinwurf
+43114,003BE_00332484,003BE,"Briefeinwurf Zürich, Filiale Zürich 27 Enge",Zürich,ZH,8002,CH,Gutenbergstrasse 1,261,"47.36498033,8.53081234",Briefeinwurf
+43131,003BE_00332097,003BE,"Briefeinwurf Zürich, Füsslistrasse",Zürich,ZH,8001,CH,Füsslistrasse 6,261,"47.37315259,8.53706017",Briefeinwurf
+43132,003BE_00332098,003BE,"Briefeinwurf Zürich, Bahnhofstrasse",Zürich,ZH,8001,CH,Bahnhofstrasse 45,261,"47.37200971,8.53834088",Briefeinwurf
+43133,003BE_00332099,003BE,"Briefeinwurf Zürich, Neue Börse Zürich",Zürich,ZH,8001,CH,Selnaustrasse 30,261,"47.37117287,8.53126092",Briefeinwurf
+43136,003BE_00332111,003BE,"Briefeinwurf Zürich, Aargauerstrasse",Zürich,ZH,8048,CH,Aargauerstrasse 1,261,"47.39192669,8.50035283",Briefeinwurf
+43163,003BE_00332120,003BE,"Briefeinwurf Zürich, Bushaltestelle Schulhaus Buchlern",Zürich,ZH,8048,CH,Rautistrasse 203,261,"47.38377936,8.47874601",Briefeinwurf
+43164,003BE_00332121,003BE,"Briefeinwurf Zürich, Bushaltestelle Rautistrasse",Zürich,ZH,8048,CH,Altstetterstrasse 212,261,"47.38279431,8.48384017",Briefeinwurf
+43165,003BE_00332122,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Kappeli",Zürich,ZH,8048,CH,Badenerstrasse 585,261,"47.38491946,8.49505995",Briefeinwurf
+43166,003BE_00332124,003BE,"Briefeinwurf Zürich, Freihofstrasse",Zürich,ZH,8048,CH,Freihofstrasse 40,261,"47.38351697,8.49910334",Briefeinwurf
+43168,003BE_00332131,003BE,"Briefeinwurf Zürich, Dialogweg",Zürich,ZH,8050,CH,Dialogweg 11,261,"47.41446834,8.55933987",Briefeinwurf
+43169,003BE_00332132,003BE,"Briefeinwurf Zürich, Bushaltestelle Schürgistrasse",Zürich,ZH,8051,CH,Roswiesenstrasse 155,261,"47.40850496,8.58026254",Briefeinwurf
+43170,003BE_00332135,003BE,"Briefeinwurf Zürich, Filiale Zürich Hirzenbach",Zürich,ZH,8051,CH,Hirzenbachstrasse 40,261,"47.40317958,8.5889988",Briefeinwurf
+43191,003BE_00332138,003BE,"Briefeinwurf Zürich, Tramhaltestelle Glattwiesen",Zürich,ZH,8051,CH,Dübendorfstrasse 153,261,"47.4018035,8.58136172",Briefeinwurf
+43192,003BE_00332139,003BE,"Briefeinwurf Zürich, Bushaltestelle Friedrichstrasse",Zürich,ZH,8051,CH,Winterthurerstrasse 454,261,"47.40377366,8.56788456",Briefeinwurf
+43193,003BE_00332141,003BE,"Briefeinwurf Zürich, Murwiesenstrasse",Zürich,ZH,8057,CH,Murwiesenstrasse 45,261,"47.40148204,8.55376476",Briefeinwurf
+43194,003BE_00332143,003BE,"Briefeinwurf Zürich, Ecke Viktoriastrasse",Zürich,ZH,8057,CH,Winterthurerstrasse 253,261,"47.40146769,8.55058615",Briefeinwurf
+43195,003BE_00332145,003BE,"Briefeinwurf Zürich, Bushaltestelle Oberwiesenstrasse",Zürich,ZH,8050,CH,Regensbergstrasse 223,261,"47.41040689,8.5328763",Briefeinwurf
+43196,003BE_00332151,003BE,"Briefeinwurf Zürich, Birchstrasse",Zürich,ZH,8057,CH,Birchstrasse 4,261,"47.4039224,8.53457948",Briefeinwurf
+43197,003BE_00332153,003BE,"Briefeinwurf Zürich, Ecke Zürichholzstrasse",Zürich,ZH,8057,CH,Berninastrasse 85,261,"47.40487229,8.54242538",Briefeinwurf
+43198,003BE_00332158,003BE,"Briefeinwurf Zürich, Bushaltestelle Saatlenstrasse",Zürich,ZH,8050,CH,Wallisellenstrasse 333,261,"47.41094708,8.56255071",Briefeinwurf
+43222,003BE_00332162,003BE,"Briefeinwurf Zürich, Bushaltestelle Ettenfeld",Zürich,ZH,8052,CH,Schaffhauserstrasse 573,261,"47.42536156,8.55327184",Briefeinwurf
+43223,003BE_00332168,003BE,"Briefeinwurf Zürich, Bushaltestelle Letzistrasse",Zürich,ZH,8006,CH,Winterthurerstrasse 92,261,"47.39120765,8.54554532",Briefeinwurf
+43224,003BE_00332170,003BE,"Briefeinwurf Zürich, Bushaltestelle Althoos",Zürich,ZH,8046,CH,Käferholzstrasse 252,261,"47.41069026,8.52418964",Briefeinwurf
+43225,003BE_00332174,003BE,"Briefeinwurf Zürich, Bushaltestelle Einfangstrasse",Zürich,ZH,8046,CH,Wehntalerstrasse 444,261,"47.41597176,8.51267258",Briefeinwurf
+43226,003BE_00332176,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Regensbergbrücke",Zürich,ZH,8050,CH,Hofwiesenstrasse 307,261,"47.40884969,8.53924156",Briefeinwurf
+43227,003BE_00332178,003BE,"Briefeinwurf Zürich, World Trade Center",Zürich,ZH,8050,CH,Leutschenbachstrasse 95,261,"47.41781621,8.55907235",Briefeinwurf
+43254,003BE_00332183,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Auzelg",Zürich,ZH,8050,CH,Opfikonstrasse 160,261,"47.41637115,8.56900764",Briefeinwurf
+43255,003BE_00332186,003BE,"Briefeinwurf Zürich, Tramhaltestelle Oerlikerhus",Zürich,ZH,8050,CH,Thurgauerstrasse 70,261,"47.41787958,8.55437962",Briefeinwurf
+43256,003BE_00332187,003BE,"Briefeinwurf Zürich, Messe Zürich",Zürich,ZH,8050,CH,Wallisellenstrasse 49,261,"47.41101166,8.55299819",Briefeinwurf
+43258,003BE_00332202,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Luchswiesen",Zürich,ZH,8051,CH,Ueberlandstrasse 385,261,"47.4073579,8.58564266",Briefeinwurf
+43259,003BE_00332205,003BE,"Briefeinwurf Zürich, Köschenrütistrasse",Zürich,ZH,8052,CH,Köschenrütistrasse 6,261,"47.42341737,8.53856038",Briefeinwurf
+43285,003BE_00332208,003BE,"Briefeinwurf Zürich, Tramhaltestelle Bad Allenmoos",Zürich,ZH,8057,CH,Hofwiesenstrasse 265,261,"47.40620492,8.53765661",Briefeinwurf
+43286,003BE_00332210,003BE,"Briefeinwurf Zürich, Kiefernweg",Zürich,ZH,8057,CH,Kiefernweg 37,261,"47.40766262,8.5322926",Briefeinwurf
+43291,003BE_00332230,003BE,"Briefeinwurf Zürich, Wehntalerstrasse",Zürich,ZH,8046,CH,Wehntalerstrasse 634,261,"47.42275963,8.49929597",Briefeinwurf
+50108,003BE_00332303,003BE,"Briefeinwurf Zürich, Kleeweidstrasse",Zürich,ZH,8041,CH,Kleeweidstrasse 37,261,"47.32986766,8.51286085",Briefeinwurf
+50109,003BE_00332304,003BE,"Briefeinwurf Zürich, Bahnhof Zürich Leimbach",Zürich,ZH,8041,CH,Leimbachstrasse 51,261,"47.33354634,8.51907036",Briefeinwurf
+50153,003BE_00329545,003BE,"Briefeinwurf Zürich, Klusweg",Zürich,ZH,8032,CH,Klusweg 18,261,"47.36374589,8.57128815",Briefeinwurf
+50154,003BE_00329547,003BE,"Briefeinwurf Zürich, Sonnenbergstrasse",Zürich,ZH,8032,CH,Sonnenbergstrasse 1,261,"47.36516088,8.56705641",Briefeinwurf
+50155,003BE_00329548,003BE,"Briefeinwurf Zürich, Sonnenbergstrasse",Zürich,ZH,8032,CH,Sonnenbergstrasse 70,261,"47.37003263,8.5665107",Briefeinwurf
+50156,003BE_00329549,003BE,"Briefeinwurf Zürich, Titlisstrasse",Zürich,ZH,8032,CH,Titlisstrasse 40,261,"47.3692019,8.56434552",Briefeinwurf
+50157,003BE_00329552,003BE,"Briefeinwurf Zürich, Wolfbachstrasse",Zürich,ZH,8032,CH,Wolfbachstrasse 39,261,"47.37019636,8.55250943",Briefeinwurf
+50182,003BE_00329581,003BE,"Briefeinwurf Zürich, Merkurstrasse",Zürich,ZH,8032,CH,Merkurstrasse 43,261,"47.36738308,8.55461012",Briefeinwurf
+50183,003BE_00329589,003BE,"Briefeinwurf Zürich, Drusbergstrasse",Zürich,ZH,8053,CH,Drusbergstrasse 10,261,"47.36009574,8.5794091",Briefeinwurf
+50184,003BE_00329590,003BE,"Briefeinwurf Zürich, Drusbergstrasse",Zürich,ZH,8053,CH,Drusbergstrasse 26,261,"47.35838459,8.5807082",Briefeinwurf
+50216,003BE_00329606,003BE,"Briefeinwurf Zürich, Karl-Stauffer-Strasse",Zürich,ZH,8008,CH,Karl-Stauffer-Strasse 12,261,"47.35607145,8.5720796",Briefeinwurf
+50217,003BE_00329610,003BE,"Briefeinwurf Zürich, Mühlebachstrasse",Zürich,ZH,8008,CH,Mühlebachstrasse 148,261,"47.35842012,8.55722504",Briefeinwurf
+50218,003BE_00329613,003BE,"Briefeinwurf Zürich, Zollikerstrasse",Zürich,ZH,8008,CH,Zollikerstrasse 221,261,"47.34952439,8.56493885",Briefeinwurf
+50219,003BE_00329617,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Kreuzstrasse",Zürich,ZH,8008,CH,Seefeldstrasse 29,261,"47.36332215,8.54980809",Briefeinwurf
+50220,003BE_00329621,003BE,"Briefeinwurf Zürich, Dufourstrasse",Zürich,ZH,8008,CH,Dufourstrasse 63,261,"47.36118535,8.54994627",Briefeinwurf
+50241,003BE_00329632,003BE,"Briefeinwurf Zürich, Bahnhof Stadelhofen",Zürich,ZH,8001,CH,Stadelhoferstrasse 8,261,"47.36635013,8.54885304",Briefeinwurf
+50242,003BE_00329640,003BE,"Briefeinwurf Zürich, Filiale Zürich 47 Albisrieden",Zürich,ZH,8047,CH,Albisriederstrasse 328,261,"47.3761113,8.48866434",Briefeinwurf
+50319,003BE_00329215,003BE,"Briefeinwurf Zürich, BE Bushaltestelle Strassenverkehrsamt",Zürich,ZH,8045,CH,Uetlibergstrasse 304,261,"47.35347258,8.51115615",Briefeinwurf
+50320,003BE_00329236,003BE,"Briefeinwurf Zürich, Binzstrasse",Zürich,ZH,8045,CH,Binzstrasse 24,261,"47.36263513,8.51463155",Briefeinwurf
+50341,003BE_00329240,003BE,"Briefeinwurf Zürich, Filiale Zürich Brunaupark",Zürich,ZH,8045,CH,Giesshübelstrasse 69,261,"47.35849545,8.51753447",Briefeinwurf
+50342,003BE_00329242,003BE,"Briefeinwurf Zürich, Birmensdorferstrasse",Zürich,ZH,8003,CH,Birmensdorferstrasse 141,261,"47.36966125,8.52002582",Briefeinwurf
+50380,003BE_00329273,003BE,"Briefeinwurf Zürich, Bullingerstrasse",Zürich,ZH,8004,CH,Bullingerstrasse 27,261,"47.3803366,8.51260898",Briefeinwurf
+50381,003BE_00329274,003BE,"Briefeinwurf Zürich, Tramhaltestelle Zypressenstrasse",Zürich,ZH,8004,CH,Elsastrasse 20,261,"47.37679731,8.51402878",Briefeinwurf
+50382,003BE_00329275,003BE,"Briefeinwurf Zürich, Norastrasse",Zürich,ZH,8004,CH,Norastrasse 30,261,"47.38057167,8.50908706",Briefeinwurf
+50383,003BE_00329279,003BE,"Briefeinwurf Zürich, Wydlerweg",Zürich,ZH,8047,CH,Wydlerweg 2,261,"47.3755501,8.48458803",Briefeinwurf
+50384,003BE_00329281,003BE,"Briefeinwurf Zürich, Triemlistrasse",Zürich,ZH,8047,CH,Triemlistrasse 8,261,"47.3739587,8.4836127",Briefeinwurf
+50385,003BE_00329288,003BE,"Briefeinwurf Zürich, Bushaltestelle Sackzelg",Zürich,ZH,8047,CH,Fellenbergstrasse 239,261,"47.37456806,8.49484694",Briefeinwurf
+50386,003BE_00329292,003BE,"Briefeinwurf Zürich, Bushaltestelle Im Gut",Zürich,ZH,8047,CH,Gutstrasse 159,261,"47.37369132,8.50236528",Briefeinwurf
+50387,003BE_00329296,003BE,"Briefeinwurf Zürich, BE Tramhaltestelle Stauffacher",Zürich,ZH,8004,CH,Badenerstrasse 21,261,"47.37366045,8.52969377",Briefeinwurf
+50388,003BE_00329300,003BE,"Briefeinwurf Zürich, Hardplatz",Zürich,ZH,8004,CH,Hardplatz 5,261,"47.38201655,8.51496574",Briefeinwurf
+50414,003BE_00329301,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Güterbahnhof",Zürich,ZH,8004,CH,Erismannhof 2,261,"47.38028452,8.51973671",Briefeinwurf
+50416,003BE_00329308,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Quellenstrasse",Zürich,ZH,8005,CH,Limmatstrasse 184,261,"47.38669259,8.52902937",Briefeinwurf
+50419,003BE_00329325,003BE,"Briefeinwurf Zürich, Imbisbühlstrasse",Zürich,ZH,8049,CH,Imbisbühlstrasse 101,261,"47.40517638,8.48704821",Briefeinwurf
+50421,003BE_00329331,003BE,"Briefeinwurf Zürich, Limmattalstrasse",Zürich,ZH,8049,CH,Limmattalstrasse 227,261,"47.40210444,8.49605108",Briefeinwurf
+50443,003BE_00329335,003BE,"Briefeinwurf Zürich, Ackersteinstrasse",Zürich,ZH,8049,CH,Ackersteinstrasse 103,261,"47.39711629,8.50675793",Briefeinwurf
+50445,003BE_00329356,003BE,"Briefeinwurf Zürich, Riedhofstrasse",Zürich,ZH,8049,CH,Riedhofstrasse 354,261,"47.40873985,8.48321217",Briefeinwurf
+50446,003BE_00329363,003BE,"Briefeinwurf Zürich, Hönggerstrasse",Zürich,ZH,8037,CH,Hönggerstrasse 117,261,"47.39542743,8.51813893",Briefeinwurf
+50447,003BE_00329366,003BE,"Briefeinwurf Zürich, Bushaltestelle Kempfhofsteig",Zürich,ZH,8049,CH,Ottenbergstrasse 37,261,"47.39738436,8.50996387",Briefeinwurf
+50448,003BE_00329862,003BE,"Briefeinwurf Zürich, Tramhaltestelle Rathaus",Zürich,ZH,8001,CH,Limmatquai 61,261,"47.37194386,8.5426985",Briefeinwurf
+50449,003BE_00329864,003BE,"Briefeinwurf Zürich, Unterführung",Zürich,ZH,8004,CH,Passage Sihlquai,261,"47.37898344,8.53656714",Briefeinwurf
+50450,003BE_00329866,003BE,"Briefeinwurf Zürich, Paradeplatz",Zürich,ZH,8001,CH,Paradeplatz 2,261,"47.36961205,8.53876545",Briefeinwurf
+50472,003BE_00329384,003BE,"Briefeinwurf Zürich, Limmatstrasse",Zürich,ZH,8005,CH,Limmatstrasse 217,261,"47.38754884,8.52732107",Briefeinwurf
+50473,003BE_00329387,003BE,"Briefeinwurf Zürich, Josefstrasse",Zürich,ZH,8005,CH,Josefstrasse 40,261,"47.38148605,8.53313697",Briefeinwurf
+50475,003BE_00329400,003BE,"Briefeinwurf Zürich, Schaffhauserplatz",Zürich,ZH,8006,CH,Schaffhauserplatz 10,261,"47.39154411,8.5390419",Briefeinwurf
+50476,003BE_00329908,003BE,"Briefeinwurf Zürich, Bushaltestelle Hügelstrasse",Zürich,ZH,8002,CH,Waffenplatzstrasse 53,261,"47.35868042,8.52706148",Briefeinwurf
+50477,003BE_00329910,003BE,"Briefeinwurf Zürich, Tramhaltestelle Museum-Rietberg",Zürich,ZH,8002,CH,Seestrasse 65,261,"47.36087978,8.5316299",Briefeinwurf
+50478,003BE_00329913,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Rentenanstalt",Zürich,ZH,8002,CH,General-Guisan-Quai 40,261,"47.36320909,8.53509461",Briefeinwurf
+50479,003BE_00329918,003BE,"Briefeinwurf Zürich, Seebahnstrasse",Zürich,ZH,8003,CH,Seebahnstrasse 115,261,"47.37292552,8.52051441",Briefeinwurf
+50497,003BE_00329424,003BE,"Briefeinwurf Zürich, Kinkelstrasse",Zürich,ZH,8006,CH,Kinkelstrasse 10,261,"47.38625462,8.5407777",Briefeinwurf
+50498,003BE_00329430,003BE,"Briefeinwurf Zürich, Beckenhofstrasse",Zürich,ZH,8006,CH,Beckenhofstrasse 17,261,"47.38377997,8.54201122",Briefeinwurf
+50523,003BE_00329439,003BE,"Briefeinwurf Zürich, Bushaltestelle Nürenbergstrasse",Zürich,ZH,8037,CH,Rotbuchstrasse 44,261,"47.39258045,8.53277795",Briefeinwurf
+50533,003BE_00329985,003BE,"Briefeinwurf Zürich, Am Wasser",Zürich,ZH,8049,CH,Am Wasser 56,261,"47.39591822,8.50645839",Briefeinwurf
+50534,003BE_00329989,003BE,"Briefeinwurf Zürich, Pflegezentrum Käferberg",Zürich,ZH,8037,CH,Emil-Klöti-Strasse 25,261,"47.39877754,8.51588445",Briefeinwurf
+50535,003BE_00329990,003BE,"Briefeinwurf Zürich, Stadtspital Waid",Zürich,ZH,8037,CH,Tièchestrasse 99,261,"47.3987925,8.52054266",Briefeinwurf
+50536,003BE_00329992,003BE,"Briefeinwurf Zürich, Universitätsspital Zürich",Zürich,ZH,8006,CH,Rämistrasse 100,261,"47.37661864,8.54898872",Briefeinwurf
+50537,003BE_00330001,003BE,"Briefeinwurf Zürich, Klosbachstrasse",Zürich,ZH,8032,CH,Klosbachstrasse 36,261,"47.36609196,8.55687357",Briefeinwurf
+50538,003BE_00330002,003BE,"Briefeinwurf Zürich, Klosbachstrasse",Zürich,ZH,8032,CH,Klosbachstrasse 128,261,"47.36872171,8.56248173",Briefeinwurf
+50555,003BE_00329472,003BE,"Briefeinwurf Zürich, Imfeldstrasse",Zürich,ZH,8037,CH,Imfeldstrasse 82,261,"47.39097844,8.52944553",Briefeinwurf
+50556,003BE_00329480,003BE,"Briefeinwurf Zürich, Tramhaltestelle Laubiweg",Zürich,ZH,8057,CH,Hofwiesenstrasse 58,261,"47.3950104,8.53643892",Briefeinwurf
+50557,003BE_00329493,003BE,"Briefeinwurf Zürich, BE Standseilbahn Bergstation",Zürich,ZH,8001,CH,Leonhardstrasse 34,261,"47.37654932,8.54646462",Briefeinwurf
+50558,003BE_00329495,003BE,"Briefeinwurf Zürich, Sternwarte",Zürich,ZH,8006,CH,Schmelzbergstrasse 14,261,"47.37781567,8.55116424",Briefeinwurf
+50581,003BE_00329502,003BE,"Briefeinwurf Zürich, Tramhaltestelle Universität Irchel",Zürich,ZH,8057,CH,Irchelstrasse 46,261,"47.39613396,8.54492168",Briefeinwurf
+50582,003BE_00329510,003BE,"Briefeinwurf Zürich, Freudenbergstrasse",Zürich,ZH,8044,CH,Freudenbergstrasse 87,261,"47.3832005,8.55718738",Briefeinwurf
+50583,003BE_00329520,003BE,"Briefeinwurf Zürich, Bushaltestelle Hofstrasse",Zürich,ZH,8032,CH,Bergstrasse 42,261,"47.37334671,8.56159271",Briefeinwurf
+50586,003BE_00329526,003BE,"Briefeinwurf Zürich, Tobelhofstrasse",Zürich,ZH,8044,CH,Tobelhofstrasse 214,261,"47.38315255,8.58620395",Briefeinwurf
+50587,003BE_00329528,003BE,"Briefeinwurf Zürich, Zoo Zürich",Zürich,ZH,8044,CH,Zürichbergstrasse 219,261,"47.38403019,8.57403153",Briefeinwurf
+50588,003BE_00329529,003BE,"Briefeinwurf Zürich, BE Tramhaltestelle Zoo",Zürich,ZH,8044,CH,BE Tramhaltestelle Zoo,261,"47.38184803,8.57164093",Briefeinwurf
+50800,003BE_00336234,003BE,"Briefeinwurf Zürich, Filiale Zürich 51 Schwamendingen",Zürich,ZH,8051,CH,Winterthurerstrasse 525,261,"47.40438915,8.57190551",Briefeinwurf
+50966,003BE_00335996,003BE,"Briefeinwurf Zürich, Filiale Zürich 50 Oerlikon",Zürich,ZH,8050,CH,Baumackerstrasse 42,261,"47.40945415,8.543204",Briefeinwurf
+51506,003BE_00333419,003BE,"Briefeinwurf Zürich, Letzipark",Zürich,ZH,8048,CH,Baslerstrasse 52,261,"47.38623426,8.4978422",Briefeinwurf
+51717,003BE_00340138,003BE,"Briefeinwurf Zürich, Kalkbreitestrasse",Zürich,ZH,8003,CH,Kalkbreitestrasse 85,261,"47.37199982,8.51677224",Briefeinwurf
+52105,003BE_00338287,003BE,"Briefeinwurf Zürich, Tramendhaltestelle Werdhölzli",Zürich,ZH,8064,CH,Bändlistrasse 70,261,"47.39776327,8.48201411",Briefeinwurf
+52586,003BE_00343532,003BE,"Briefeinwurf Zürich, Filiale Zürich 40 Sihlfeld",Zürich,ZH,8003,CH,Albisriederstrasse 5,261,"47.37805809,8.50961",Briefeinwurf
+52596,003BE_00343552,003BE,"Briefeinwurf Zürich, Filiale Zürich 53 Witikon",Zürich,ZH,8053,CH,Witikonerstrasse 279,261,"47.35857307,8.58556261",Briefeinwurf
+52607,003BE_00343217,003BE,"Briefeinwurf Zürich, Friesenbergplatz",Zürich,ZH,8045,CH,Friesenbergplatz 5,261,"47.36083525,8.50706663",Briefeinwurf
+52711,003BE_00342675,003BE,"Briefeinwurf Zürich, Filiale Zürich 66 Letzibach",Zürich,ZH,8048,CH,Hohlstrasse 510,261,"47.38945655,8.49397897",Briefeinwurf
+52745,003BE_00343818,003BE,"Briefeinwurf Zürich, Bahnhof Altstetten Unterführung",Zürich,ZH,8048,CH,Vulkanplatz 31,261,"47.39212165,8.48925522",Briefeinwurf
+52804,003BE_00342751,003BE,"Briefeinwurf Zürich, Bushaltestelle Geeringstrasse",Zürich,ZH,8049,CH,Rütihofstrasse 1,261,"47.41436029,8.47997899",Briefeinwurf
+52806,003BE_00342757,003BE,"Briefeinwurf Zürich, Ankenweid",Zürich,ZH,8041,CH,Ankenweid 7,261,"47.33002795,8.51544934",Briefeinwurf
+52825,003BE_00343400,003BE,"Briefeinwurf Zürich, Spinnereiplatz",Zürich,ZH,8041,CH,Spinnereiplatz 1,261,"47.3387653,8.52004014",Briefeinwurf
+52829,003BE_00342775,003BE,"Briefeinwurf Zürich, Filiale Zürich Triemli",Zürich,ZH,8047,CH,Triemlistrasse 181,261,"47.36832595,8.49489014",Briefeinwurf
+52837,003BE_00343021,003BE,"Briefeinwurf Zürich, Filiale Zürich 25 Urania",Zürich,ZH,8001,CH,Uraniastrasse 7,261,"47.37434921,8.54015027",Briefeinwurf
+52840,003BE_00343026,003BE,"Briefeinwurf Zürich, Freilagerstrasse",Zürich,ZH,8047,CH,Freilagerstrasse 51,261,"47.37979075,8.49009818",Briefeinwurf
+52965,003BE_00342064,003BE,"Briefeinwurf Zürich, BE Bahnhof Zürich Affoltern",Zürich,ZH,8046,CH,Riedenhaldenstrasse 288,261,"47.42095974,8.50789063",Briefeinwurf
+52986,003BE_00341081,003BE,"Briefeinwurf Zürich, Rigistrasse",Zürich,ZH,8006,CH,Rigistrasse 63,261,"47.3866044,8.55130394",Briefeinwurf
+53067,003BE_00342202,003BE,"Briefeinwurf Zürich, Filiale Zürich 32 Neumünster",Zürich,ZH,8008,CH,Forchstrasse 8,261,"47.36420186,8.55559343",Briefeinwurf
+75191,003BE_00324759,003BE,"Briefeinwurf Zürich, Tram-/ Bushaltestelle Hegibachplatz",Zürich,ZH,8008,CH,Neumünsterstrasse 34,261,"47.36169896,8.56027779",Briefeinwurf
+75192,003BE_00324761,003BE,"Briefeinwurf Zürich, Haltestelle Hardbrücke 1",Zürich,ZH,8005,CH,Hardstrasse 201,261,"47.38620754,8.51745557",Briefeinwurf
+75193,003BE_00324762,003BE,"Briefeinwurf Zürich, Bahnhof Enge",Zürich,ZH,8002,CH,Tessinerplatz 10,261,"47.36457654,8.53137336",Briefeinwurf
+75332,003BE_00329119,003BE,"Briefeinwurf Zürich, Mühlegasse",Zürich,ZH,8001,CH,Mühlegasse 11,261,"47.37435695,8.54395478",Briefeinwurf
+75333,003BE_00329120,003BE,"Briefeinwurf Zürich, Bederstrasse",Zürich,ZH,8002,CH,Bederstrasse 97,261,"47.36166082,8.52636241",Briefeinwurf
+75335,003BE_00329126,003BE,"Briefeinwurf Zürich, Ecke Brunaustrasse",Zürich,ZH,8002,CH,Scheideggstrasse 44,261,"47.35561614,8.52930881",Briefeinwurf
+75336,003BE_00329127,003BE,"Briefeinwurf Zürich, Bushaltestelle Thujastrasse",Zürich,ZH,8038,CH,Mutschellenstrasse 64,261,"47.3503901,8.52766927",Briefeinwurf
+75337,003BE_00329131,003BE,"Briefeinwurf Zürich, Bellariastrasse",Zürich,ZH,8038,CH,Bellariastrasse 45,261,"47.35173954,8.53051081",Briefeinwurf
+75362,003BE_00329145,003BE,"Briefeinwurf Zürich, Bushaltestelle Sihlweidstrasse",Zürich,ZH,8041,CH,Leimbachstrasse 215,261,"47.32637547,8.51501051",Briefeinwurf
+75363,003BE_00329148,003BE,"Briefeinwurf Zürich, Alte Kalchbühlstrasse",Zürich,ZH,8038,CH,Alte Kalchbühlstrasse 15,261,"47.34021777,8.53020093",Briefeinwurf
+75364,003BE_00329152,003BE,"Briefeinwurf Zürich, Tramendstation Wollishofen",Zürich,ZH,8038,CH,Albisstrasse 105,261,"47.33835931,8.53020525",Briefeinwurf
+75365,003BE_00329155,003BE,"Briefeinwurf Zürich, Ecke Widmerstrasse",Zürich,ZH,8038,CH,Kilchbergstrasse 100,261,"47.33791807,8.53613769",Briefeinwurf
+75366,003BE_00329159,003BE,"Briefeinwurf Zürich, Bahnhof Zürich Wollishofen",Zürich,ZH,8038,CH,Seestrasse 331,261,"47.34764908,8.53349101",Briefeinwurf
+75480,003BE_00328788,003BE,"Briefeinwurf Zürich, Shopville Passage Bahnhofstrasse",Zürich,ZH,8001,CH,Bahnhofpassage,261,"47.37739822,8.54037614",Briefeinwurf
+75513,003BE_00328814,003BE,"Briefeinwurf Zürich, Rennweg",Zürich,ZH,8001,CH,Rennweg 25,261,"47.37297998,8.53950627",Briefeinwurf
+75514,003BE_00328818,003BE,"Briefeinwurf Zürich, Gotthardstrasse",Zürich,ZH,8002,CH,Gotthardstrasse 48,261,"47.36509724,8.5337605",Briefeinwurf
+75542,003BE_00328825,003BE,"Briefeinwurf Zürich, Talstrasse",Zürich,ZH,8001,CH,Talstrasse 11,261,"47.36824319,8.53855449",Briefeinwurf
+76225,003BE_00332535,003BE,"Briefeinwurf Zürich, Paradeplatz",Zürich,ZH,8001,CH,Paradeplatz 2,261,"47.36960845,8.53876537",Briefeinwurf
+76265,003BE_00333107,003BE,"Briefeinwurf Zürich, Trottenstrasse",Zürich,ZH,8037,CH,Trottenstrasse 84,261,"47.39619371,8.51805377",Briefeinwurf
+76266,003BE_00333108,003BE,"Briefeinwurf Zürich, Kappenbühlweg",Zürich,ZH,8049,CH,Kappenbühlweg 11,261,"47.40384852,8.4990031",Briefeinwurf
+76274,003BE_00332427,003BE,"Briefeinwurf Zürich, Erligatterweg",Zürich,ZH,8038,CH,Erligatterweg 61,261,"47.33150761,8.53371952",Briefeinwurf
+76308,003BE_00332451,003BE,"Briefeinwurf Zürich, Filiale Zürich 49 Höngg",Zürich,ZH,8049,CH,Gsteigstrasse 8,261,"47.40238002,8.49954887",Briefeinwurf
+76357,003BE_00332096,003BE,"Briefeinwurf Zürich, BE Tramhaltestelle Sihlstrasse",Zürich,ZH,8001,CH,Talacker 50,261,"47.3724334,8.53493205",Briefeinwurf
+76358,003BE_00332104,003BE,"Briefeinwurf Zürich, Freiestrasse",Zürich,ZH,8032,CH,Freiestrasse 217,261,"47.36070859,8.56665111",Briefeinwurf
+76359,003BE_00332105,003BE,"Briefeinwurf Zürich, Idaplatz",Zürich,ZH,8003,CH,Idaplatz 4,261,"47.37420835,8.51423875",Briefeinwurf
+76363,003BE_00332114,003BE,"Briefeinwurf Zürich, Altersheim",Zürich,ZH,8064,CH,Bändlistrasse 10,261,"47.39505583,8.49034365",Briefeinwurf
+76388,003BE_00332115,003BE,"Briefeinwurf Zürich, Badenerstrasse",Zürich,ZH,8048,CH,Badenerstrasse 816,261,"47.39344659,8.47370631",Briefeinwurf
+76389,003BE_00332117,003BE,"Briefeinwurf Zürich, Bushaltestelle Suteracher",Zürich,ZH,8048,CH,Am Suteracher 57,261,"47.39090165,8.46970969",Briefeinwurf
+76390,003BE_00332125,003BE,"Briefeinwurf Zürich, Bushaltestelle SBB-Werkstätte",Zürich,ZH,8048,CH,Hohlstrasse 417,261,"47.38664215,8.50288858",Briefeinwurf
+76391,003BE_00332128,003BE,"Briefeinwurf Zürich, Altstetterstrasse",Zürich,ZH,8048,CH,Altstetterstrasse 124,261,"47.38971585,8.4866382",Briefeinwurf
+76392,003BE_00332136,003BE,"Briefeinwurf Zürich, Mattenhof",Zürich,ZH,8051,CH,Mattenhof 1A,261,"47.39951994,8.5921974",Briefeinwurf
+76412,003BE_00331653,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Frankental",Zürich,ZH,8049,CH,Frankentalerstrasse 10,261,"47.40544115,8.48124492",Briefeinwurf
+76419,003BE_00332137,003BE,"Briefeinwurf Zürich, Tramhaltestelle  Probstei",Zürich,ZH,8051,CH,Dübendorfstrasse 227,261,"47.40033196,8.58634862",Briefeinwurf
+76420,003BE_00332140,003BE,"Briefeinwurf Zürich, Bushaltestelle Waldgarten",Zürich,ZH,8051,CH,Schwamendingenstrasse 116,261,"47.4044403,8.5578849",Briefeinwurf
+76422,003BE_00332147,003BE,"Briefeinwurf Zürich, BE Bushaltestelle Fronwald",Zürich,ZH,8046,CH,Fronwaldstrasse 130,261,"47.4219597,8.51054417",Briefeinwurf
+76423,003BE_00332148,003BE,"Briefeinwurf Zürich, Bushaltestelle Unteraffoltern",Zürich,ZH,8046,CH,Wolfswinkel 9,261,"47.4242896,8.51265603",Briefeinwurf
+76424,003BE_00332149,003BE,"Briefeinwurf Zürich, Im St. Blasienhof",Zürich,ZH,8046,CH,Horensteinstrasse 45,261,"47.42607235,8.50732124",Briefeinwurf
+76425,003BE_00332150,003BE,"Briefeinwurf Zürich, Bushaltestelle Schumacherweg",Zürich,ZH,8046,CH,Glaubtenstrasse 67,261,"47.41226732,8.51550918",Briefeinwurf
+76426,003BE_00332152,003BE,"Briefeinwurf Zürich, Schaffhauserstrasse",Zürich,ZH,8057,CH,Schaffhauserstrasse 289,261,"47.40564558,8.54828045",Briefeinwurf
+76427,003BE_00332154,003BE,"Briefeinwurf Zürich, City Bernina",Zürich,ZH,8057,CH,Schaffhauserstrasse 239,261,"47.40352416,8.54728898",Briefeinwurf
+76428,003BE_00332156,003BE,"Briefeinwurf Zürich, BE Busstation Friedackerstrasse",Zürich,ZH,8050,CH,Schwamendingenstrasse 76,261,"47.4058696,8.55313844",Briefeinwurf
+76429,003BE_00332157,003BE,"Briefeinwurf Zürich, Riedgrabenweg",Zürich,ZH,8050,CH,Riedgrabenweg 49,261,"47.40826718,8.55868343",Briefeinwurf
+76454,003BE_00332163,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Felsenrainstrasse",Zürich,ZH,8050,CH,Schaffhauserstrasse 445,261,"47.41717971,8.54539972",Briefeinwurf
+76456,003BE_00332169,003BE,"Briefeinwurf Zürich, Im Holzerhurd",Zürich,ZH,8046,CH,Im Holzerhurd 30,261,"47.42352086,8.4947465",Briefeinwurf
+76457,003BE_00332171,003BE,"Briefeinwurf Zürich, Bushaltestelle Lerchenrain",Zürich,ZH,8046,CH,Lerchenhalde 45,261,"47.41397384,8.5094864",Briefeinwurf
+76458,003BE_00332172,003BE,"Briefeinwurf Zürich, Bushaltestelle Schwandenholz",Zürich,ZH,8046,CH,Schwandenholzstrasse 254,261,"47.4239104,8.52072006",Briefeinwurf
+76476,003BE_00332185,003BE,"Briefeinwurf Zürich, Siewerdtstrasse",Zürich,ZH,8050,CH,Siewerdtstrasse 95,261,"47.41230229,8.55636978",Briefeinwurf
+76477,003BE_00332188,003BE,"Briefeinwurf Zürich, Bahnhof Oerlikon",Zürich,ZH,8050,CH,Hofwiesenstrasse 369,261,"47.41122631,8.54422528",Briefeinwurf
+76478,003BE_00332189,003BE,"Briefeinwurf Zürich, Bushaltestelle Dorflinde",Zürich,ZH,8050,CH,Dorflindenstrasse 2,261,"47.40755089,8.54901442",Briefeinwurf
+76479,003BE_00332191,003BE,"Briefeinwurf Zürich, Gubelstrasse",Zürich,ZH,8050,CH,Gubelstrasse 10,261,"47.4077721,8.5455515",Briefeinwurf
+76480,003BE_00332192,003BE,"Briefeinwurf Zürich, Herbstweg",Zürich,ZH,8050,CH,Herbstweg 77,261,"47.40645573,8.56292901",Briefeinwurf
+76482,003BE_00332200,003BE,"Briefeinwurf Zürich, Luegislandstrasse",Zürich,ZH,8051,CH,Luegislandstrasse 334,261,"47.40865865,8.57534598",Briefeinwurf
+76483,003BE_00332203,003BE,"Briefeinwurf Zürich, Buchholzrain",Zürich,ZH,8052,CH,Buchholzrain 1,261,"47.42739287,8.54378139",Briefeinwurf
+76484,003BE_00332206,003BE,"Briefeinwurf Zürich, Bushaltestelle Käshaldenstrasse",Zürich,ZH,8052,CH,Rümlangstrasse 73,261,"47.43009236,8.5407568",Briefeinwurf
+76560,003BE_00331504,003BE,"Briefeinwurf Zürich, Einkaufszentrum Sihlcity",Zürich,ZH,8045,CH,Kalanderplatz 6,261,"47.35817044,8.52294475",Briefeinwurf
+76591,003BE_00332286,003BE,"Briefeinwurf Zürich, Dreikönigstrasse",Zürich,ZH,8002,CH,Dreikönigstrasse 21,261,"47.3668995,8.53635942",Briefeinwurf
+83245,003BE_00329532,003BE,"Briefeinwurf Zürich, Gloriastrasse",Zürich,ZH,8006,CH,Gloriastrasse 35,261,"47.37739575,8.55310743",Briefeinwurf
+83246,003BE_00329534,003BE,"Briefeinwurf Zürich, Zürichbergstrasse",Zürich,ZH,8044,CH,Zürichbergstrasse 42,261,"47.37430282,8.55649888",Briefeinwurf
+83248,003BE_00329538,003BE,"Briefeinwurf Zürich, Tramhaltestelle Hölderlinstrasse",Zürich,ZH,8032,CH,Asylstrasse 100,261,"47.36593858,8.56238998",Briefeinwurf
+83249,003BE_00329540,003BE,"Briefeinwurf Zürich, Asylstrasse",Zürich,ZH,8032,CH,Asylstrasse 130,261,"47.36492992,8.56500602",Briefeinwurf
+83251,003BE_00329542,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Klusplatz",Zürich,ZH,8032,CH,Witikonerstrasse 15,261,"47.36413498,8.56645614",Briefeinwurf
+83252,003BE_00329553,003BE,"Briefeinwurf Zürich, Tramhaltestelle Römerhof",Zürich,ZH,8032,CH,Römerhofplatz 5,261,"47.3680794,8.56054439",Briefeinwurf
+83253,003BE_00329556,003BE,"Briefeinwurf Zürich, BE Tramhaltestelle Kunsthaus",Zürich,ZH,8001,CH,Heimplatz 6,261,"47.37052727,8.54887777",Briefeinwurf
+83288,003BE_00329584,003BE,"Briefeinwurf Zürich, Ecke Hegibachstrasse",Zürich,ZH,8032,CH,Freiestrasse 162,261,"47.3629449,8.56322848",Briefeinwurf
+83289,003BE_00329586,003BE,"Briefeinwurf Zürich, Alters- & Pflegewohnheim Neumünster",Zürich,ZH,8032,CH,Minervastrasse 144,261,"47.36271805,8.55972995",Briefeinwurf
+83290,003BE_00329594,003BE,"Briefeinwurf Zürich, An der Specki",Zürich,ZH,8053,CH,An der Specki 2,261,"47.36262545,8.59314696",Briefeinwurf
+83308,003BE_00329596,003BE,"Briefeinwurf Zürich, Buchholzstrasse",Zürich,ZH,8053,CH,Buchholzstrasse 125,261,"47.36109062,8.58956448",Briefeinwurf
+83309,003BE_00329598,003BE,"Briefeinwurf Zürich, Bushaltestelle Kienastenwies",Zürich,ZH,8053,CH,Trichtenhausenstrasse 126,261,"47.35507263,8.60107399",Briefeinwurf
+83310,003BE_00329603,003BE,"Briefeinwurf Zürich, Pflegezentrum Riesbach",Zürich,ZH,8008,CH,Witellikerstrasse 19,261,"47.35224604,8.57653308",Briefeinwurf
+83311,003BE_00329608,003BE,"Briefeinwurf Zürich, Kreuzplatz",Zürich,ZH,8008,CH,Kreuzplatz 20,261,"47.36491755,8.55413752",Briefeinwurf
+83312,003BE_00329614,003BE,"Briefeinwurf Zürich, Seefeldstrasse",Zürich,ZH,8008,CH,Seefeldstrasse 299,261,"47.34750013,8.56450965",Briefeinwurf
+83313,003BE_00329618,003BE,"Briefeinwurf Zürich, Seefeldstrasse",Zürich,ZH,8008,CH,Seefeldstrasse 55,261,"47.36221197,8.55066666",Briefeinwurf
+83337,003BE_00329634,003BE,"Briefeinwurf Zürich, Filiale Zürich 38 Wollishofen",Zürich,ZH,8038,CH,Albisstrasse 10,261,"47.34465363,8.53292531",Briefeinwurf
+83338,003BE_00329638,003BE,"Briefeinwurf Zürich, Filiale Zürich 40 Sihlfeld",Zürich,ZH,8003,CH,Albisriederstrasse 5,261,"47.37805809,8.50961",Briefeinwurf
+83339,003BE_00329643,003BE,"Briefeinwurf Zürich, Filiale Zürich 33 Oberstrass",Zürich,ZH,8006,CH,Universitätstrasse 102,261,"47.38433527,8.54846205",Briefeinwurf
+83429,003BE_00329210,003BE,"Briefeinwurf Zürich, Supermarkt Wiedikon",Zürich,ZH,8003,CH,Birmensdorferstrasse 200,261,"47.37068192,8.51601206",Briefeinwurf
+83430,003BE_00329211,003BE,"Briefeinwurf Zürich, Seniorama",Zürich,ZH,8055,CH,Sieberstrasse 10,261,"47.36496532,8.50984092",Briefeinwurf
+83431,003BE_00329212,003BE,"Briefeinwurf Zürich, Friesenbergstrasse",Zürich,ZH,8055,CH,Friesenbergstrasse 75,261,"47.36753913,8.5111663",Briefeinwurf
+83432,003BE_00329217,003BE,"Briefeinwurf Zürich, Bachtobelstrasse",Zürich,ZH,8045,CH,Bachtobelstrasse 103,261,"47.35987925,8.51276896",Briefeinwurf
+83433,003BE_00329222,003BE,"Briefeinwurf Zürich, Friesenberghalde",Zürich,ZH,8055,CH,Friesenberghalde 3,261,"47.36112468,8.502022",Briefeinwurf
+83434,003BE_00329226,003BE,"Briefeinwurf Zürich, Birmensdorferstrasse",Zürich,ZH,8055,CH,Birmensdorferstrasse 379,261,"47.36911311,8.50486907",Briefeinwurf
+83435,003BE_00329231,003BE,"Briefeinwurf Zürich, Gertrudstrasse",Zürich,ZH,8003,CH,Gertrudstrasse 66,261,"47.37244217,8.51331862",Briefeinwurf
+83436,003BE_00329237,003BE,"Briefeinwurf Zürich, BE Bushaltestelle Binz Center",Zürich,ZH,8045,CH,Grubenstrasse 45,261,"47.36116791,8.51251691",Briefeinwurf
+83463,003BE_00329239,003BE,"Briefeinwurf Zürich, Bahnhof Zürich Giesshübel",Zürich,ZH,8045,CH,Wolframplatz 1,261,"47.36257677,8.52202951",Briefeinwurf
+83464,003BE_00329241,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Sihlcity Nord",Zürich,ZH,8045,CH,Manessestrasse 208,261,"47.36045148,8.52295935",Briefeinwurf
+83465,003BE_00329252,003BE,"Briefeinwurf Zürich, Rotwandstrasse",Zürich,ZH,8004,CH,Rotwandstrasse 63,261,"47.37581864,8.52909569",Briefeinwurf
+83466,003BE_00329260,003BE,"Briefeinwurf Zürich, Bushaltestelle Herdernstrasse",Zürich,ZH,8004,CH,Hohlstrasse 357,261,"47.38483065,8.50881762",Briefeinwurf
+83495,003BE_00329276,003BE,"Briefeinwurf Zürich, Tramhaltestelle Letzigrund",Zürich,ZH,8048,CH,Badenerstrasse 501,261,"47.38131714,8.50287897",Briefeinwurf
+83496,003BE_00329278,003BE,"Briefeinwurf Zürich, Albisriederstrasse",Zürich,ZH,8047,CH,Albisriederstrasse 254,261,"47.37833844,8.49340932",Briefeinwurf
+83497,003BE_00329284,003BE,"Briefeinwurf Zürich, Letzigraben",Zürich,ZH,8047,CH,Letzigraben 239,261,"47.37042359,8.49262782",Briefeinwurf
+83498,003BE_00329286,003BE,"Briefeinwurf Zürich, Langgrütstrasse",Zürich,ZH,8047,CH,Langgrütstrasse 140,261,"47.37412681,8.49214222",Briefeinwurf
+83499,003BE_00329298,003BE,"Briefeinwurf Zürich, Tramhaltestelle Lochergut",Zürich,ZH,8004,CH,Badenerstrasse 230,261,"47.37575121,8.5172096",Briefeinwurf
+83522,003BE_00329302,003BE,"Briefeinwurf Zürich, Erismannstrasse",Zürich,ZH,8004,CH,Erismannstrasse 45,261,"47.37800315,8.51764183",Briefeinwurf
+83524,003BE_00329307,003BE,"Briefeinwurf Zürich, Ecke Neugasse",Zürich,ZH,8005,CH,Langstrasse 200,261,"47.38248431,8.52982931",Briefeinwurf
+83525,003BE_00329309,003BE,"Briefeinwurf Zürich, Josefstrasse",Zürich,ZH,8005,CH,Josefstrasse 144,261,"47.38458183,8.52803394",Briefeinwurf
+83526,003BE_00329312,003BE,"Briefeinwurf Zürich, Neue Hard",Zürich,ZH,8005,CH,Neue Hard 9,261,"47.38664642,8.52006307",Briefeinwurf
+83530,003BE_00329323,003BE,"Briefeinwurf Zürich, Bushaltestelle Hohenklingensteig",Zürich,ZH,8049,CH,Winzerstrasse 47,261,"47.40120561,8.49055508",Briefeinwurf
+83537,003BE_00329861,003BE,"Briefeinwurf Zürich, Schifflände",Zürich,ZH,8001,CH,Schifflände 24,261,"47.36886931,8.54439052",Briefeinwurf
+83556,003BE_00329340,003BE,"Briefeinwurf Zürich, Nötzlistrasse",Zürich,ZH,8049,CH,Nötzlistrasse 2,261,"47.40448548,8.50349264",Briefeinwurf
+83557,003BE_00329344,003BE,"Briefeinwurf Zürich, Bushaltestelle Segantinistrasse",Zürich,ZH,8049,CH,Regensdorferstrasse 74,261,"47.40730277,8.49002354",Briefeinwurf
+83559,003BE_00329353,003BE,"Briefeinwurf Zürich, Bushaltestelle Heizenholz",Zürich,ZH,8049,CH,Regensdorferstrasse 189,261,"47.41238328,8.48365859",Briefeinwurf
+83560,003BE_00329359,003BE,"Briefeinwurf Zürich, Ecke Lachenacker",Zürich,ZH,8049,CH,Riedhofstrasse 104,261,"47.40532396,8.49050785",Briefeinwurf
+83584,003BE_00329369,003BE,"Briefeinwurf Zürich, Rebbergstrasse",Zürich,ZH,8037,CH,Rebbergstrasse 21,261,"47.39819267,8.51590443",Briefeinwurf
+83585,003BE_00329370,003BE,"Briefeinwurf Zürich, Wunderlistrasse",Zürich,ZH,8037,CH,Wunderlistrasse 1,261,"47.39682004,8.52378795",Briefeinwurf
+83586,003BE_00329376,003BE,"Briefeinwurf Zürich, Bushaltestelle Lehenstrasse",Zürich,ZH,8037,CH,Nordstrasse 327,261,"47.39614259,8.52044251",Briefeinwurf
+83588,003BE_00329380,003BE,"Briefeinwurf Zürich, Tramhaltestelle Bernoulli-Häuser",Zürich,ZH,8005,CH,Hardturmstrasse 253,261,"47.39364445,8.50838391",Briefeinwurf
+83589,003BE_00329381,003BE,"Briefeinwurf Zürich, Silvahaus",Zürich,ZH,8005,CH,Hardturmstrasse 169,261,"47.39349654,8.51133754",Briefeinwurf
+83590,003BE_00329383,003BE,"Briefeinwurf Zürich, Escher-Wyss-Platz",Zürich,ZH,8005,CH,Hardstrasse 324,261,"47.39040228,8.52289966",Briefeinwurf
+83592,003BE_00329390,003BE,"Briefeinwurf Zürich, Ausstellungsstrasse",Zürich,ZH,8005,CH,Ausstellungsstrasse 15,261,"47.38104053,8.537714",Briefeinwurf
+83593,003BE_00329392,003BE,"Briefeinwurf Zürich, Hirschengraben",Zürich,ZH,8001,CH,Hirschengraben 13,261,"47.371596,8.5468993",Briefeinwurf
+83594,003BE_00329394,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Sonneggstrasse",Zürich,ZH,8006,CH,Weinbergstrasse 68,261,"47.38300873,8.54364942",Briefeinwurf
+83595,003BE_00329398,003BE,"Briefeinwurf Zürich, Turnerstrasse",Zürich,ZH,8006,CH,Turnerstrasse 26,261,"47.3853311,8.54404456",Briefeinwurf
+83597,003BE_00329906,003BE,"Briefeinwurf Zürich, Beethovenstrasse",Zürich,ZH,8002,CH,Beethovenstrasse 1,261,"47.36495067,8.53763795",Briefeinwurf
+83598,003BE_00329920,003BE,"Briefeinwurf Zürich, Brahmsstrasse",Zürich,ZH,8003,CH,Brahmsstrasse 76,261,"47.37864011,8.50425442",Briefeinwurf
+83599,003BE_00329922,003BE,"Briefeinwurf Zürich, Militärstrasse",Zürich,ZH,8004,CH,Militärstrasse 106,261,"47.37912146,8.52892619",Briefeinwurf
+83600,003BE_00329929,003BE,"Briefeinwurf Zürich, Bullingerplatz",Zürich,ZH,8004,CH,Sihlfeldstrasse 150,261,"47.37992647,8.51598564",Briefeinwurf
+83601,003BE_00329931,003BE,"Briefeinwurf Zürich, BE Pflegezentrum Entlisberg",Zürich,ZH,8038,CH,Paradiesstrasse 45,261,"47.33464935,8.52680817",Briefeinwurf
+83631,003BE_00329420,003BE,"Briefeinwurf Zürich, Clausiusstrasse",Zürich,ZH,8006,CH,Clausiusstrasse 43,261,"47.3794862,8.54581316",Briefeinwurf
+83633,003BE_00329423,003BE,"Briefeinwurf Zürich, Tramhaltestelle Beckenhof",Zürich,ZH,8006,CH,Stampfenbachstrasse 114,261,"47.38408829,8.54052631",Briefeinwurf
+83635,003BE_00329429,003BE,"Briefeinwurf Zürich, Tramhaltestelle Ottikerstrasse",Zürich,ZH,8006,CH,Weinbergstrasse 107,261,"47.38577368,8.54206573",Briefeinwurf
+83636,003BE_00329432,003BE,"Briefeinwurf Zürich, Bushaltestelle Nordstrasse",Zürich,ZH,8006,CH,Kornhausstrasse 24,261,"47.38813414,8.53647878",Briefeinwurf
+83673,003BE_00329979,003BE,"Briefeinwurf Zürich, Schweighofstrasse",Zürich,ZH,8055,CH,Schweighofstrasse 334,261,"47.36485449,8.50285497",Briefeinwurf
+83674,003BE_00329980,003BE,"Briefeinwurf Zürich, Städt. Pflegezentrum Bachwiesen",Zürich,ZH,8047,CH,Flurstrasse 130,261,"47.37840602,8.48727006",Briefeinwurf
+83675,003BE_00329991,003BE,"Briefeinwurf Zürich, Ottikerstrasse",Zürich,ZH,8006,CH,Ottikerstrasse 35,261,"47.38610265,8.54566581",Briefeinwurf
+83676,003BE_00329997,003BE,"Briefeinwurf Zürich, Bushaltestelle Krönleinstrasse",Zürich,ZH,8044,CH,Susenbergstrasse 118,261,"47.38390251,8.56150646",Briefeinwurf
+83677,003BE_00330000,003BE,"Briefeinwurf Zürich, Treichlerstrasse",Zürich,ZH,8032,CH,Treichlerstrasse 4,261,"47.37052426,8.55785895",Briefeinwurf
+83678,003BE_00330008,003BE,"Briefeinwurf Zürich, Hammerstrasse",Zürich,ZH,8008,CH,Hammerstrasse 44,261,"47.36052862,8.56130298",Briefeinwurf
+83689,003BE_00329473,003BE,"Briefeinwurf Zürich, Bushaltestelle Lettenstrasse",Zürich,ZH,8037,CH,Rousseaustrasse 63,261,"47.39013742,8.53248806",Briefeinwurf
+83690,003BE_00329477,003BE,"Briefeinwurf Zürich, Hönggerstrasse",Zürich,ZH,8037,CH,Hönggerstrasse 24,261,"47.39154944,8.52574173",Briefeinwurf
+83691,003BE_00329479,003BE,"Briefeinwurf Zürich, Rosengartenstrasse",Zürich,ZH,8037,CH,Rosengartenstrasse 80,261,"47.3957127,8.53171625",Briefeinwurf
+83692,003BE_00329486,003BE,"Briefeinwurf Zürich, Tram-/Bushaltestelle Milchbuck",Zürich,ZH,8057,CH,Schaffhauserstrasse 146,261,"47.39777529,8.54175116",Briefeinwurf
+83693,003BE_00329487,003BE,"Briefeinwurf Zürich, Filiale Zürich Hirschwiesen",Zürich,ZH,8057,CH,Schaffhauserstrasse 192,261,"47.40039927,8.54399937",Briefeinwurf
+83694,003BE_00329488,003BE,"Briefeinwurf Zürich, Schürbungert",Zürich,ZH,8057,CH,Schürbungert 42,261,"47.40234249,8.5409567",Briefeinwurf
+83695,003BE_00329492,003BE,"Briefeinwurf Zürich, Walchestrasse",Zürich,ZH,8006,CH,Walchestrasse 15,261,"47.38022633,8.54216414",Briefeinwurf
+83698,003BE_00330023,003BE,"Briefeinwurf Zürich, Fachstelle Zürich 37 Wipkingen",Zürich,ZH,8037,CH,Wipkingerplatz 7,261,"47.39274393,8.52393016",Briefeinwurf
+83718,003BE_00329509,003BE,"Briefeinwurf Zürich, Forsterstrasse",Zürich,ZH,8044,CH,Forsterstrasse 48,261,"47.38094414,8.56158453",Briefeinwurf
+83719,003BE_00329511,003BE,"Briefeinwurf Zürich, Toblerstrasse",Zürich,ZH,8044,CH,Toblerstrasse 42,261,"47.38082169,8.55649385",Briefeinwurf
+83720,003BE_00329515,003BE,"Briefeinwurf Zürich, Voltastrasse",Zürich,ZH,8044,CH,Voltastrasse 59,261,"47.37934004,8.55399562",Briefeinwurf
+83721,003BE_00329522,003BE,"Briefeinwurf Zürich, BE Haltestelle Waldhaus Dolder",Zürich,ZH,8032,CH,Kurhausstrasse 20,261,"47.37289437,8.56886729",Briefeinwurf
+83881,003BE_00335801,003BE,"Briefeinwurf Zürich, Stadtspital Triemli",Zürich,ZH,8055,CH,Birmensdorferstrasse 497,261,"47.36603627,8.49749138",Briefeinwurf
+84048,003BE_00335994,003BE,"Briefeinwurf Zürich, Filiale Zürich 46 Affoltern",Zürich,ZH,8046,CH,Jonas-Furrer-Strasse 3,261,"47.41925692,8.50770273",Briefeinwurf
+84049,003BE_00335995,003BE,"Briefeinwurf Zürich, Filiale Zürich 48 Altstetten",Zürich,ZH,8048,CH,Altstetterstrasse 159,261,"47.38676354,8.48635501",Briefeinwurf
+84342,003BE_00333667,003BE,"Briefeinwurf Zürich, Stiftung Altried",Zürich,ZH,8051,CH,Ueberlandstrasse 426,261,"47.40568435,8.59048251",Briefeinwurf
+84870,003BE_00340224,003BE,"Briefeinwurf Zürich, Pflegezentrum Mattenhof",Zürich,ZH,8051,CH,Helen-Keller-Strasse 12,261,"47.40011059,8.59403182",Briefeinwurf
+85011,003BE_00339756,003BE,"Briefeinwurf Zürich, Bahnhof Altstetten",Zürich,ZH,8048,CH,Altstetterplatz 12,261,"47.3912895,8.48916862",Briefeinwurf
+85012,003BE_00339757,003BE,"Briefeinwurf Zürich, Unterführung",Zürich,ZH,8004,CH,Passage Sihlquai,261,"47.37900577,8.5365835",Briefeinwurf
+85382,003BE_00338448,003BE,"Briefeinwurf Zürich, Fachstelle Zürich 37 Wipkingen",Zürich,ZH,8037,CH,Wipkingerplatz 7,261,"47.39275287,8.52393564",Briefeinwurf
+85689,003BE_00343152,003BE,"Briefeinwurf Zürich, Filiale Zürich Helvetiaplatz",Zürich,ZH,8004,CH,Molkenstrasse 21,261,"47.37681544,8.5265047",Briefeinwurf
+85693,003BE_00343162,003BE,"Briefeinwurf Zürich, Toblerplatz",Zürich,ZH,8044,CH,Toblerplatz 5,261,"47.37904599,8.55965611",Briefeinwurf
+85713,003BE_00343180,003BE,"Briefeinwurf Zürich, Filiale Zürich Fluntern",Zürich,ZH,8044,CH,Zürichbergstrasse 64,261,"47.37561539,8.55963828",Briefeinwurf
+85872,003BE_00342690,003BE,"Briefeinwurf Zürich, Bahnhof Stadelhofen",Zürich,ZH,8001,CH,Stadelhoferstrasse 8,261,"47.36658586,8.54856667",Briefeinwurf
+85921,003BE_00343853,003BE,"Briefeinwurf Zürich, Binzstrasse",Zürich,ZH,8045,CH,Binzstrasse 24,261,"47.36263513,8.51463155",Briefeinwurf
+85941,003BE_00342746,003BE,"Briefeinwurf Zürich, Rütihofstrasse",Zürich,ZH,8049,CH,Rütihofstrasse 40,261,"47.41374798,8.4775513",Briefeinwurf
+86088,003BE_00342063,003BE,"Briefeinwurf Zürich, BE Bahnhof Zürich Affoltern",Zürich,ZH,8046,CH,Riedenhaldenstrasse 288,261,"47.42095974,8.50789063",Briefeinwurf
+86090,003BE_00342071,003BE,"Briefeinwurf Zürich, Schaffhauserstrasse",Zürich,ZH,8050,CH,Schaffhauserstrasse 355,261,"47.41008904,8.54594811",Briefeinwurf
+86155,003BE_00342149,003BE,"Briefeinwurf Zürich, BE Treffpunkt Haupthalle Hauptbahnhof 1",Zürich,ZH,8001,CH,Bahnhofhalle,261,"47.37798982,8.53993415",Briefeinwurf
+86250,003BE_00342231,003BE,"Briefeinwurf Zürich, Central",Zürich,ZH,8001,CH,Central 1,261,"47.3766749,8.54349565",Briefeinwurf
+86281,003BE_00342264,003BE,"Briefeinwurf Zürich, Filiale ZH ETH Hönggerberg",Zürich,ZH,8049,CH,Stefano-Franscini-Platz 5,261,"47.40840292,8.50738032",Briefeinwurf
+86294,003BE_00341231,003BE,"Briefeinwurf Zürich, Militärstrasse",Zürich,ZH,8004,CH,Militärstrasse 106,261,"47.3791123,8.52894322",Briefeinwurf
+86345,003BE_00340824,003BE,"Briefeinwurf Zürich, Bahnhof Tiefenbrunnen",Zürich,ZH,8008,CH,Bellerivestrasse 251,261,"47.35029328,8.56098699",Briefeinwurf
+86359,003BE_00341309,003BE,"Briefeinwurf Zürich, Forchstrasse",Zürich,ZH,8032,CH,Forchstrasse 138,261,"47.3605074,8.56302219",Briefeinwurf
+86383,003BE_00342347,003BE,"Briefeinwurf Zürich, BE Tramhaltestelle Bellevue",Zürich,ZH,8001,CH,Bellevueplatz 1,261,"47.36701285,8.54522057",Briefeinwurf
+86393,003BE_00340874,003BE,"Briefeinwurf Zürich, Städt. Pflegezentrum Gehrenholz",Zürich,ZH,8055,CH,Sieberstrasse 22,261,"47.36421565,8.51056063",Briefeinwurf
+86435,003BE_00341372,003BE,"Briefeinwurf Zürich, Keltenstrasse",Zürich,ZH,8044,CH,Keltenstrasse 40,261,"47.37545503,8.56401273",Briefeinwurf
+86448,003BE_00340917,003BE,"Briefeinwurf Zürich, BE Treffpunkt Haupthalle Hauptbahnhof 2",Zürich,ZH,8001,CH,Bahnhofhalle,261,"47.37798532,8.53993405",Briefeinwurf
